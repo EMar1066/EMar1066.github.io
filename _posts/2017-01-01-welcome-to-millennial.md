@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Welcome to Millennial!"
-author: "Paul Le"
+title: "Contextual Statement"
+author: "Eric Martin"
 categories: documentation
 tags: [documentation,sample]
 image: Opener1.jpg
