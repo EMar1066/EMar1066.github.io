@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Getting Started"
-author: "Paul Le"
+title: "The Tools That Shape Us"
+author: "Eric Martin"
 categories: documentation
 tags: [documentation,sample]
 image: opener1.jpg
