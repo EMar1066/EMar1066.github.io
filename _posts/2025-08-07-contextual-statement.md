@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Contextual Statement"
+title: "contextual-statement"
 author: "Eric Martin"
 categories: documentation
 tags: [documentation,sample]
