@@ -17,9 +17,11 @@ layout: default
   <article>
     {{ content }}
   </article>
-  {# {% if site.hide_post_share != true %}
+  {% comment %}
+  {% if site.hide_post_share != true %}
     {% include post-share.html %}
-  {% endif %} #}
+  {% endif %}
+  {% endcomment %}
   {% if site.hide_related_posts != true %}
     {% include related-posts.html %}
   {% endif %}
