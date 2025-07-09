@@ -11,7 +11,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-title: "Millennial"
+title: "CMALT Portfolio"
 description: "A minimalist Jekyll theme for running a blog or publication"
 author: "Eric Martin"
 
