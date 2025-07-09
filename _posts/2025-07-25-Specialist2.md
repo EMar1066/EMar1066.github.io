@@ -4,7 +4,7 @@ title: "Specialist Option 2"
 author: "Eric Martin"
 date: 2025-07-25
 categories: documentation
-image: opener1.jpg
+image: Turingbw.jpg
 ---
 
 This is a test post to check if posts render.
