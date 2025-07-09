@@ -16,12 +16,10 @@ menu:
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'twitter', link:    'https://twitter.com/paululele'}
-- {icon: 'facebook', link:   'https://www.facebook.com/paululele'}
-- {icon: 'instagram', link:  'https://instagram.com/paululele'}
-- {icon: 'envelope', link:   'mailto:hello@paulle.ca'}
-- {icon: 'rss-square', link: 'feed.xml'}
-# - {icon: 'rss-square', link: 'rss-feed.xml'}
+- {icon: 'link', link: 'https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/eric-martin'}
+- {icon: 'linkedin', link: 'www.linkedin.com/in/ejmartinphd'}
+- {icon: 'ai ai-orcid', link: 'https://orcid.org/0009-0005-9135-3382'}
+- {icon: 'envelope', link: 'mailto:e.martin@greenwich.ac.uk'}
 
 # Customize site text
 pagination:
