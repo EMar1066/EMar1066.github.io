@@ -9,10 +9,10 @@ image: opener1.jpg
 <p style="font-size: 1.5em; text-align: center;">
 <em>“We become what we behold. We shape our tools, and thereafter our tools shape us.”</em>
 </p>
-<p style="text-align: right;">
-*— Marshall McLuhan*
-</p>
 
+<p style="text-align: right;">
+<em>— Marshall McLuhan</em>
+</p>
 
 I grew up in Canada, where the snow is deep and the winters long and my path to an academic career was anything but direct. In previous professional lives, I’ve been an English major, a senior writer and editor of a university newspaper, a Chemical Engineer, a graduate researcher, an environmental scientist in the high Arctic, a subject matter expert and Provincial Officer with the Ontario Ministry of the Environment, and an adjunct lecturer at Queen’s University and the University of Birmingham.
 
