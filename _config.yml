@@ -1,6 +1,5 @@
-# Site Build Settings
-
 paginate: 5
+paginate_path: "/page:num/"
 
 markdown: kramdown
 highlighter: rouge
@@ -12,11 +11,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-title: "Eric Martin CMALT Portfolio"
-description: "Bulit using Millenial, a minimalist Jekyll theme by Paul Le"
+title: "Millennial"
+description: "A minimalist Jekyll theme for running a blog or publication"
 author: "Eric Martin"
 
-baseurl: ""  # No repo name because this is a user site
-
-# feed:
-#   path: rss-feed.xml
+baseurl: ""
