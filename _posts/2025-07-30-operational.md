@@ -16,21 +16,21 @@ image: PunchCardbw.jpg
 
 #Preface#
 
-#a) Understanding Constraints and Benefits of different technologies#
-##Case 1 - Title##
-##Reflection##
-##Evidence##
-##References##
-#b) Technical knowledge and ability in the use of learning technology#
-##Case 1 - Title##
-##Reflection##
-##Evidence##
-##References##
-#c) Supporting the deployment of learning technologies#
-##Case 1 - Title##
-##Reflection##
-##Evidence##
-##References##
+#a) Understanding Constraints and Benefits of different technologies
+##Case 1 - Title
+##Reflection
+##Evidence
+##References
+#b) Technical knowledge and ability in the use of learning technology
+##Case 1 - Title
+##Reflection
+##Evidence
+##References
+#c) Supporting the deployment of learning technologies
+##Case 1 - Title
+##Reflection
+##Evidence
+##References
 
 
 
