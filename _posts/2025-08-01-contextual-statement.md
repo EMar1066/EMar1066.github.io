@@ -5,6 +5,7 @@ author: "Eric Martin"
 date: 2025-08-01
 categories: documentation
 image: opener1.jpg
+image_credit: "Image courtesy of: ergoneon/Pixabay"
 ---
 <p style="font-size: 1.5em; text-align: center;">
 <em>“We become what we behold. We shape our tools, and thereafter our tools shape us.”</em>
