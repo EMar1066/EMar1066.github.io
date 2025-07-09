@@ -14,7 +14,7 @@ image: PunchCardbw.jpg
 <em>–Neil Postman </em>
 </p>
 
-#Preface#
+# Preface
 
 # a) Understanding Constraints and Benefits of different technologies
 ## Case 1 - Title
