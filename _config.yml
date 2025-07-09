@@ -16,3 +16,5 @@ description: "A minimalist Jekyll theme for running a blog or publication"
 author: "Eric Martin"
 
 baseurl: ""
+
+future: true
