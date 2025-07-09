@@ -10,12 +10,12 @@ layout: default
     {% include post-date.html %}
   {% endif %}
   {% if page.image %}
-    <div class="featured-image">
-      <img src="{{ site.github.url }}/assets/img/{{ page.image }}" title="{{ page.image_credit }}">
-      {% if page.image_credit %}
-        <p style="font-size: 0.75em; text-align: center; margin-top: 2px;">{{ page.image_credit }}</p>
-      {% endif %}
-    </div>
+  <div class="featured-image">
+    <img src="{{ site.github.url }}/assets/img/{{ page.image }}" title="{{ page.image_credit }}">
+    {% if page.image_credit %}
+      <p class="image-credit">{{ page.image_credit }}</p>
+    {% endif %}
+  </div>
   {% endif %}
   <article>
     {{ content }}
