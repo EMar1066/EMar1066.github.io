@@ -12,8 +12,8 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-title: "Millennial"
-description: "A minimalist Jekyll theme for running a blog or publication"
+title: "Eric Martin CMALT Portfolio"
+description: "Bulit using Millenial, a minimalist Jekyll theme by Paul Le"
 author: "Eric Martin"
 
 baseurl: ""  # No repo name because this is a user site
