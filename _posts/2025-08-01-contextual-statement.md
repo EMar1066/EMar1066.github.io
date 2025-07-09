@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Holy Hell, Man"
+title: "Contextual Statement"
 author: "Eric Martin"
 date: 2025-08-01
 categories: documentation
