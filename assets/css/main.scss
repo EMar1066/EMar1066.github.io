@@ -27,3 +27,9 @@ $codepen-color: black;
 $rss-color: #ff6600;
 
 @import "-sections-dir";
+
+.pagination {
+    margin-top: 20px;
+    position: relative;
+    z-index: 2;
+}
