@@ -27,6 +27,8 @@ My academic work focuses on multiphase reactive fluid flows, particularly in app
 
 While my current research hinges on the precision of Python syntax and  dry brevity of academic writing, sitting down to reflect on technology in higher provides me with a reward that is perhaps less tangible, but just as real as results flashing across my monitor.  The following portfolio is an addaptaion of a small collection of related reflections written this year articling my progression into fomalised thought regarding TEL. Commiting my epxeriences, thoughts and reflection to paper (even digital paper, in this case) has given me much to  think about and intellectually explore.
 
+*Why CMALT?
+
 I believe complex material deserves clarity, not simplification, and that good teaching stretches attention rather than panders to its limits. That belief runs through this collection: reflections built on reading, shaped by lived teaching experience, informed by student feedback, and written in my own, authentic voice.
 
 ⁂
