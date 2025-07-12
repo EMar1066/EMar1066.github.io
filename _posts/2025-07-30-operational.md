@@ -34,12 +34,22 @@ The main constraints across platforms involved layout rigidity, content manageme
 ### Evidence
 ### References
 ## b) Technical knowledge and ability in the use of learning technology
-### Case 1 - Title
+**Scaling Computational Difficulty: Applying Statistical and Machine Learning Tools in BSc Engineering**
+
+**Moodle Shell Design: Structuring Digital Learning for Engagement and Accessibility**
+
+**Collaborative Coding and Big Data Handling: NC File Slicing and Random Forests in Environmental Modelling**
+
 ### Reflection
 ### Evidence
 ### References
 ## c) Supporting the deployment of learning technologies
-### Case 1 - Title
+
+**MSc Curriculum: Scaled Use of Machine Learning for Engineering Applications**
+
+**ONYX and iNUX Europe**
+
+
 ### Reflection
 ### Evidence
 ### References
