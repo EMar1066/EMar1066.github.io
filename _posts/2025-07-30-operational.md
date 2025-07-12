@@ -14,11 +14,12 @@ image: PunchCardbw.jpg
 <em>–Neil Postman </em>
 </p>
 
-## Preface
+##<h2 id="Core_Area_1_Preface">Preface</h2>
 
-**a) Understanding Constraints and Benefits of different technologies**
 
-***Case i: Platform Logic and Pedagogical Choice: Mentimeter, Panopto, and Moodle***
+**<h2 id="Core_Area_1">Preface</h2>a) Understanding Constraints and Benefits of different technologies**
+
+***<h2 id="Core_Area_1_a">Preface</h2>Case i: Platform Logic and Pedagogical Choice - Mentimeter, Panopto, and Moodle***
 
 I first used Moodle at Queen’s University in the early 2010s. At that time, it relied heavily on folder structures and lacked visual clarity. In 2017–2019, I moved to D2L, which introduced conditional release logic, advanced quiz functions, and integrated assessment flows. While flexible, its complexity often outweighed its benefits for straightforward module delivery.
 
