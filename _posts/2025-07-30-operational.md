@@ -16,16 +16,15 @@ image: PunchCardbw.jpg
 
 ## Preface
 
-## a) Understanding Constraints and Benefits of different technologies
-### i) Platform Logic and Pedagogical Choice: Mentimeter, Panopto, and Moodle
+**a) Understanding Constraints and Benefits of different technologies**
+
+***i) Platform Logic and Pedagogical Choice: Mentimeter, Panopto, and Moodle***
 
 I first used Moodle at Queen’s University in the early 2010s. At that time, it relied heavily on folder structures and lacked visual clarity. In 2017–2019, I moved to D2L, which introduced conditional release logic, advanced quiz functions, and integrated assessment flows. While flexible, its complexity often outweighed its benefits for straightforward module delivery.
 
 In 2021, I taught using Canvas at the University of Birmingham. It offered stronger integration with Turnitin and had a cleaner interface, but its rigid module sequencing and auto-generated calendar features limited flexibility mid-term.
 
-Since 2024, I’ve been using Moodle again at the University of Greenwich. I rebuilt asynchronous delivery shells to support hybrid teaching and make lectures resilient to disruption. Each shell followed a standard format: one section per week, clear session titles, downloadable PDFs, and no folder nesting. I deliberately excluded “completion tracking,” which in previous courses had encouraged checklist behaviours rather than conceptual learning.
-
-At Greenwich, I built a asynchronous delivery framework inside Moodle to support hybrid lectures and increase resilience during periods of staff or student absence. The shell design was intentionally sparse: One section per week with clearly labelled sessions, downloadable PDFs rather than embedded documents, and minimal folder nesting. I avoided Moodle’s “completion tracking” feature, having observed in past modules that students began to treat the course as a checklist rather than an intellectual process. Navigational friction and overcomplexity were stripped out wherever possible.
+Since 2024, I’ve been using Moodle again at the University of Greenwich. I rebuilt asynchronous delivery shells to support hybrid teaching and make lectures resilient to disruption. Each shell followed a standard format: one section per week, clear session titles, downloadable PDFs, and no folder nesting. I deliberately excluded “completion tracking” features, having observed in past modules that students began to treat the course as a checklist rather than an intellectual process. Navigational friction and overcomplexity were stripped out wherever possible.
 
 Panopto recordings were produced for every lecture but explicitly framed as review material. I regularly reminded students that the recordings were not substitutes for engagement or participation; they were scaffolds useful for reinforcement, revisiting worked examples, or catching up when circumstances prevented attendance. Recordings were not segmented or heavily edited. Their utility came from immediacy, not production value.
 
