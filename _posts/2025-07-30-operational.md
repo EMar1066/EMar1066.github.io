@@ -18,13 +18,16 @@ image: PunchCardbw.jpg
 
 ## a) Understanding Constraints and Benefits of different technologies
 ### i) Platform Logic and Pedagogical Choice: Mentimeter, Panopto, and Moodle
-I first encountered Moodle while teaching at Queen’s University in the early 2010s. It was serviceable but awkward, built around folders and click-depth rather than clarity. By 2017, I had shifted to D2L, which offered more flexibility in conditional release and quiz logic, but also introduced complexity that often exceeded the needs of a course. At the University of Birmingham in 2021, I worked with Canvas. It offered a cleaner design and better integration with Turnitin, but its default structures—auto-generated calendars, rigid sequencing that often clashed with term schedules. Now, in 2024, I find myself back in Moodle at Greenwich. It has changed little. The scroll-of-death remains. The folder logic remains. The editing pane is still buried in a settings menu. It feels less like a platform that has evolved, and more like one that has survived.
 
-At Greenwich, I built a asynchronous delivery framework inside Moodle to support hybrid lectures and increase resilience during periods of staff or student absence. The shell design was intentionally sparse—one section per week, clearly labelled sessions, downloadable PDFs rather than embedded documents, and minimal folder nesting. I avoided Moodle’s “completion tracking” feature, having observed in past modules that students began to treat the course as a checklist rather than an intellectual process. Navigational friction and overcomplexity were stripped out wherever possible.
+I first used Moodle at Queen’s University in the early 2010s. At that time, it relied heavily on folder structures and lacked visual clarity. In 2017–2019, I moved to D2L, which introduced conditional release logic, advanced quiz functions, and integrated assessment flows. While flexible, its complexity often outweighed its benefits for straightforward module delivery.
 
-Panopto recordings were produced for every lecture but explicitly framed as review material. I regularly reminded students that the recordings were not substitutes for engagement or participation; they were scaffolds useful for reinforcement, revisiting worked examples, or catching up when circumstances prevented attendance. Recordings were not segmented or heavily edited. Their utility came from immediacy, not production value.
+In 2021, I taught using Canvas at the University of Birmingham. It offered stronger integration with Turnitin and had a cleaner interface, but its rigid module sequencing and auto-generated calendar features limited flexibility mid-term.
 
-Across all these platforms, I made selective use of available features rather than adopting tools wholesale. The VLEs differed in interface and logic, but the core constraint was the same: a platform’s structure is not the pedagogy. The work lay in minimising distraction, reducing ambiguity, and keeping students oriented on the learning, not the interface.
+Since 2023, I’ve been using Moodle again at the University of Greenwich. I rebuilt asynchronous delivery shells to support hybrid teaching and make lectures resilient to disruption. Each shell followed a standard format: one section per week, clear session titles, downloadable PDFs, and no folder nesting. I deliberately excluded “completion tracking,” which in previous courses had encouraged checklist behaviours rather than conceptual learning.
+
+Lecture recordings were delivered via Panopto. All lectures were recorded with voice, slides, smartboard and captions. These were integrated into Moodle for reference and review, but clearly signposted as supplemental, not primary, learning materials.
+
+The main constraints across platforms involved layout rigidity, content management overhead, and poor adaptation to mobile use. The benefits included reliable content access, multimodal recording, and integrated assessment workflows. My platform use was shaped by a consistent aim: to reduce ambiguity and ensure students could locate and use core materials without distraction.
 
 ### Reflection
 ### Evidence
