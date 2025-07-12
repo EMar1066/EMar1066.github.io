@@ -61,6 +61,7 @@ and environmental settings.
 -Question Bank Data wranglig  - TU Dresden and Others.
 
 <a href="[http://example.com](https://www.onyx-editor.com/onyxeditor/editor;jsessionid=CBA16C0C2A0F56DCAB4198AFC18A1BED?0)">Onyx Editor</a>
+<a href="[[http://example.com](https://www.onyx-editor.com/onyxeditor/editor;jsessionid=CBA16C0C2A0F56DCAB4198AFC18A1BED?0](https://tu-dresden.de/studium/im-studium/studienorganisation/lehrangebot/lernplattform-opal?set_language=en))">OPAL (Online Platform for Academic Teaching and Learning at the TU Dresden</a>
 
 
 ### Reflection
