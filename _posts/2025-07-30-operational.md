@@ -47,7 +47,17 @@ The main constraints across platforms involved layout rigidity, content manageme
 
 ***Case i: MSc Curriculum: Scaled Use of Machine Learning for Engineering Applications***
 
+
 ***Case ii: Jupyter Notebooks for Engineering Education: Supporting Conceptual Mastery***
+
+As part of my module redevelopment for Contaminant Hydrogeology and Groundwater Remediation and Hydrosystems Engineering and Management, I have integrated interactive Jupyter notebooks developed by TU Dresden through the iNUX Europe initiative and <a href="https://gw-project.org/interactive-education/">The Groundwater Project – Interactive Education</a>. These notebooks shift traditionally lecture-based content into exploratory, browser-accessible environments where students can interact directly with groundwater models, parameterise scenarios, and visualise results.
+
+To enable seamless deployment, I configured Moodle shell links through Binder and JupyterHub pipelines, removing the need for local installation or advanced setup. This scaffolding supports digital equity and accessibility across diverse student hardware and skill levels. The aim is to increase engagement while aligning learning activities with Bloom’s higher-order skills: application, analysis, and evaluation.
+
+The notebooks replace multi-step pen-and-paper tasks with responsive tools that allow full control of key variables. By doing so, they preserve cognitive rigour while reducing procedural friction, supporting a deeper conceptual grasp of transient flow, sorption, and transport processes. Although student-facing use begins in 2025–2026, internal testing has confirmed full compatibility, and I have produced draft screencasts and tutorial guides in preparation for launch.
+
+These materials form part of a broader effort to reorient groundwater teaching around open-source tools and reproducible science, with colleagues across the faculty already expressing interest in adaptation for their modules.
+
 
 ***Case iii: SYMPLE and INUX Europe: Leading Collaborative EdTech Deployment***
 
