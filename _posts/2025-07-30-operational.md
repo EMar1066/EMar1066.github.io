@@ -18,7 +18,7 @@ image: PunchCardbw.jpg
 
 **a) Understanding Constraints and Benefits of different technologies**
 
-***i) Platform Logic and Pedagogical Choice: Mentimeter, Panopto, and Moodle***
+***Case i: Platform Logic and Pedagogical Choice: Mentimeter, Panopto, and Moodle***
 
 I first used Moodle at Queen’s University in the early 2010s. At that time, it relied heavily on folder structures and lacked visual clarity. In 2017–2019, I moved to D2L, which introduced conditional release logic, advanced quiz functions, and integrated assessment flows. While flexible, its complexity often outweighed its benefits for straightforward module delivery.
 
@@ -34,22 +34,31 @@ The main constraints across platforms involved layout rigidity, content manageme
 ### Evidence
 ### References
 ## b) Technical knowledge and ability in the use of learning technology
-**Scaling Computational Difficulty: Applying Statistical and Machine Learning Tools in BSc Engineering**
+***Case i: Scaling Computational Difficulty: Applying Statistical and Machine Learning Tools in BSc Engineering***
 
-**Moodle Shell Design: Structuring Digital Learning for Engagement and Accessibility**
+***Case ii: Moodle Shell Design: Structuring Digital Learning for Engagement and Accessibility***
 
-**Collaborative Coding and Big Data Handling: NC File Slicing and Random Forests in Environmental Modelling**
+***Case iii: Collaborative Coding and Big Data Handling: NC File Slicing and Random Forests in Environmental Modelling***
 
 ### Reflection
 ### Evidence
 ### References
 ## c) Supporting the deployment of learning technologies
 
-**MSc Curriculum: Scaled Use of Machine Learning for Engineering Applications**
+***Case i: MSc Curriculum: Scaled Use of Machine Learning for Engineering Applications***
 
-**Jupyter Notebooks for Engineering Education: Supporting Conceptual Mastery**
+***Case ii: Jupyter Notebooks for Engineering Education: Supporting Conceptual Mastery***
 
-**SYMPLE and INUX Europe: Leading Collaborative EdTech Deployment**
+***Case iii: SYMPLE and INUX Europe: Leading Collaborative EdTech Deployment***
+
+As a curriculum developer and trainer for SYMPLE, I collaborate with colleagues from TU Dresden and Sapienza University of Rome to produce applied hydrogeology materials for
+use in under-resourced regions. This work foregrounds scalable, decision-focused education in groundwater systems and expands my own practice in adapting teaching to diverse technical
+and environmental settings.
+
+-Asynchronoous classroom
+-Numerical Modeling and Uncertainty Estimation
+-Global South
+-Question Bank Data wranglig  - TU Dresden and Others.
 
 
 ### Reflection
