@@ -53,17 +53,17 @@ The main constraints across platforms involved layout rigidity, content manageme
 
 As a curriculum developer and trainer for SYMPLE, I collaborate with colleagues from TU Dresden and Sapienza University of Rome to produce applied hydrogeology materials for
 use in under-resourced regions. This work foregrounds scalable, decision-focused education in groundwater systems and expands my own practice in adapting teaching to diverse technical
-and environmental settings.
+and environmental settings. Part of my work with SYMPLE included the development of adn online learning platform, the <a href="http://example.com](https://www.onyx-editor.com/onyxeditor/editor;jsessionid=CBA16C0C2A0F56DCAB4198AFC18A1BED?0)](https://gw-inux.github.io/iNUX-Handbook/?utm_source=chatgpt.com)">iNUX project (Interactive understanding of groundwater hydrogeology and groundwater management)</a>, which is an Erasmus+ funded initiative (2022–2025), led by a collaboration between institutions including the Technical University of Dresden, University of Gothenburg, University of Graz, and Universidad Politécnica de Cataluña.
 
 -Asynchronoous classroom
 -Numerical Modeling and Uncertainty Estimation
 -Global South
 -Question Bank Data wranglig  - TU Dresden and Others.
 
-<a href="[http://example.com](https://www.onyx-editor.com/onyxeditor/editor;jsessionid=CBA16C0C2A0F56DCAB4198AFC18A1BED?0)">Onyx Editor</a>
-<a href="[[http://example.com](https://www.onyx-editor.com/onyxeditor/editor;jsessionid=CBA16C0C2A0F56DCAB4198AFC18A1BED?0](https://tu-dresden.de/studium/im-studium/studienorganisation/lehrangebot/lernplattform-opal?set_language=en))">OPAL (Online Platform for Academic Teaching and Learning at the TU Dresden</a>
+<a href="https://www.onyx-editor.com/onyxeditor/editor;jsessionid=CBA16C0C2A0F56DCAB4198AFC18A1BED?0">Onyx Editor</a>
+<a href="https://www.onyx-editor.com/onyxeditor/editor;jsessionid=CBA16C0C2A0F56DCAB4198AFC18A1BED?0>(https://tu-dresden.de/studium/im-studium/studienorganisation/lehrangebot/lernplattform-opal?set_language=en))">OPAL (Online Platform for Academic Teaching and Learning at the TU Dresden</a>
 
-
+https://gw-inux.github.io/iNUX-Handbook/?utm_source=chatgpt.com
 ### Reflection
 ### Evidence
 ### References
