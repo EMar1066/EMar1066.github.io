@@ -14,7 +14,7 @@ image: PunchCardbw.jpg
 <em>–Neil Postman </em>
 </p>
 
-##<h2 id="Core_Area_1_Preface">Preface</h2>
+##Preface <h2 id="Core_Area_1_Preface"></h2>
 
 
 **<h2 id="Core_Area_1">Preface</h2>a) Understanding Constraints and Benefits of different technologies**
