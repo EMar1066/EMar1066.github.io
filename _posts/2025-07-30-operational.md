@@ -16,8 +16,8 @@ image: PunchCardbw.jpg
 
 ## Preface 
 
-
-**<h2 id="Core_Area_1"> Core Area 1.a.: Understanding Constraints and Benefits of different technologies </h2>**
+**Core Area 1.a.: Understanding Constraints and Benefits of different technologies**
+<h2 id="Core_Area_1"></h2>
 
 ***<h2 id="Core_Area_1_a">Case i: Platform Logic and Pedagogical Choice - Mentimeter, Panopto, and Moodle </h2>***
 
