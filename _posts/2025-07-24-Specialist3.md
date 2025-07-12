@@ -2,7 +2,7 @@
 layout: post
 title: "Specialist Option 3"
 author: "Eric Martin"
-date: 2025-07-24
+date: 
 categories: documentation
 image: Typewriterbw.jpg
 ---
