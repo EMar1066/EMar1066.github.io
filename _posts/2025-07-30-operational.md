@@ -47,7 +47,9 @@ The main constraints across platforms involved layout rigidity, content manageme
 
 **MSc Curriculum: Scaled Use of Machine Learning for Engineering Applications**
 
-**ONYX and iNUX Europe**
+**Jupyter Notebooks for Engineering Education: Supporting Conceptual Mastery**
+
+**SYMPLE and INUX Europe: Leading Collaborative EdTech Deployment**
 
 
 ### Reflection
