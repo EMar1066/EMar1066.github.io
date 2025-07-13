@@ -21,6 +21,7 @@ image: PunchCardbw.jpg
 
 <h2 id="Core_Area_1_a"></h2>
 
+
 ***Core Area 1a - Case i: PowerPoint vs. Sway vs. Mentimeter***
 
 In my teaching practice, I rely primarily on PowerPoint for lecture delivery, supplemented selectively by other tools depending on pedagogical need. While many of my CPD courses have been delivered using Mentimeter, which is often praised for its interactivity through quizzes and polls, I have found it unsuitable as a core presentation platform. My lectures often involve animated diagrams, flowline sequences, and real-time annotation to highlight fluid behaviours or trace conceptual relationships. This visual and spatial interactivity, often accompanied by verbal walkthroughs and student note-taking, is central to how I scaffold complex engineering content. Mentimeter, by contrast, limits interactivity to polls and short-form input, without support for animated content, inline editing, or fluid visual pacing. It is also time-consuming to build, lacks accessibility features, and does not accommodate the kind of real-time responsiveness that my subjects demand. For this reason, I use it sparingly, typically for standalone quiz rounds or checkpoint questions, before returning to PowerPoint, which supports the layered, media-rich delivery style that best suits my material. These decisions reflect not only practical constraints, but a deeper consideration of what types of engagement best support understanding. This distinction is explored by Kirkwood and Price (2014), who argue that technology should be judged by how well it supports specific educational goals.
@@ -36,6 +37,14 @@ Engineering is a science of data, and every value that we calculate (estimate) i
 For MSc students who are less coding-inclined, I have introduced GUI tools such as OrangeML. It provides a node-based machine learning interface that allows MSc students to work with clustering, regression, and time-series classification techniques without needing to script models from scratch. This bridges the gap between concept and implementation. Students can construct pipelines, adjust model parameters, and visualise outputs, all while gaining intuition for how algorithms behave under different conditions. However, its customisability is limited, and it serves more as an educational stepping stone than a research tool.
 
 MSc students who have prowess in both using and creating technology soluation are directed towards Python, which by contrast, offers full control, extensibility, and integration with numerical libraries such as NumPy, SciPy, and Scikit-learn. It is my primary environment for teaching finite difference models, environmental data processing, and ML workflows involving µCT or time-series data. The trade-off, of course, is that it has a steep learning curve. For students who are not from a programming background, this can present a barrier. To support them, I structure scaffolded notebooks with commented code, embedded visual outputs, and real-world datasets, allowing them to engage with the methods at a depth that matches their ability. Across all platforms, the key decision is not what the tool can do, but what it enables the student to understand and build from. The goal is always to match power with usability and support learning without overwhelming it.
+
+***Reflections***
+
+***Evidence***
+
+***References***
+
+Kirkwood, A. & Price, L. (2014). Technology-enhanced learning and teaching in higher education: what is ‘enhanced’ and how do we know? A critical literature review. Learning, Media and Technology, 39(1), 6–36.  https://doi.org/10.1080/17439884.2013.770404
 
 ## Core Area 1b: Technical knowledge and ability in the use of learning technology
 
@@ -57,7 +66,7 @@ While I have deep experience coding from scratch, I also work pragmatically with
 
 ***References***
 
-Kirkwood, A. & Price, L. (2014). Technology-enhanced learning and teaching in higher education: what is ‘enhanced’ and how do we know? A critical literature review. Learning, Media and Technology, 39(1), 6–36.  https://doi.org/10.1080/17439884.2013.770404
+
 
 
 
