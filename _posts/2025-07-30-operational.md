@@ -16,49 +16,51 @@ image: PunchCardbw.jpg
 
 ## Preface 
 
-**Core Area 1.a.: Understanding Constraints and Benefits of different technologies**
+## Core Area 1.a.: Understanding Constraints and Benefits of different technologies
 <h2 id="Core_Area_1"></h2>
 
 <h2 id="Core_Area_1_a"></h2>
 ***Case XXX:PowerPoint vs. Sway vs. Mentimeter***
-sway for takehome materials...yeah, i could see that...POwerpoint is usable.  Mentimeter is awkeard, non accessible and an besides quizzes, crushes all other interpretations of intereactivity.
 
+In my teaching practice, I rely primarily on PowerPoint for lecture delivery, supplemented selectively by other tools depending on pedagogical need. While many of my CPD courses have been delivered using Mentimeter, which is often praised for its interactivity through quizzes and polls, I have found it unsuitable as a core presentation platform. My lectures often involve animated diagrams, flowline sequences, and real-time annotation to highlight fluid behaviours or trace conceptual relationships. This visual and spatial interactivity, often accompanied by verbal walkthroughs and student note-taking, is central to how I scaffold complex engineering content. Mentimeter, by contrast, limits interactivity to polls and short-form input, without support for animated content, inline editing, or fluid visual pacing. It is also time-consuming to build, lacks accessibility features, and does not accommodate the kind of real-time responsiveness that my subjects demand. For this reason, I use it sparingly, typically for standalone quiz rounds or checkpoint questions, before returning to PowerPoint, which supports the layered, media-rich delivery style that best suits my material. These decisions reflect not only practical constraints, but a deeper consideration of what types of engagement best support understanding. This distinction is explored by Kirkwood and Price (2014), who argue that technology should be judged by how well it supports specific educational goals.
+
+***Reflection***
+
+***References***
+Kirkwood, A. & Price, L. (2014). Technology-enhanced learning and teaching in higher education: what is ‘enhanced’ and how do we know? A critical literature review. Learning, Media and Technology, 39(1), 6–36.  https://doi.org/10.1080/17439884.2013.770404
 
 ***Case XXX: Moodle vs. D2l vs. Canvas***
+I have worked extensively with Moodle, D2L (Desire2Learn), and Canvas across different institutions, and each has presented its own strengths and limitations. I first encountered Moodle in its early days, and while its modular design allowed for flexibility, it often required manual structuring and lacked polish in interface design. D2L offered more consistency in navigation and grading tools, particularly for scaffolded assessment structures, but tended to be inflexible when trying to embed external content or apply complex workflows. Canvas, by contrast, felt modern and lightweight, with cleaner integration of multimedia, straightforward assignment creation, and better cross-platform accessibility. However, it could feel restrictive when customisation was needed or when managing large numbers of files and resources.
+
+Returning to Moodle in my current role has meant revisiting a platform that, while widely adopted, still carries some of its earlier inefficiencies. Navigation can feel fragmented, and many features (such as assignment feedback and gradebook tools) require multiple layers of configuration to work as intended. Despite this, I have structured my Moodle pages carefully to reduce cognitive load, using collapsible sections, visual flowcharts, and labelled downloads to guide students through each week’s materials. I also supplement Moodle’s limitations by embedding interactive tools like Jupyter Notebooks. While no platform has offered a perfect solution, my experience across systems has allowed me to identify what is worth customising and what requires workarounds. The goal remains the same: to ensure that the learning environment supports clarity, progression, and meaningful engagement with the course content.
+
+
+***Reflection***
+
+***References***
 
 ***Case XXX: Numeric Solvers***
-Engineering is a science of data. Everything we produce is in essence, and mean and an associated tolerance.
+Engineering is a science of data, and every value that we calculate (estimate) is a mean, with an associated variance. In supporting students' application of analytical and numerical theory, I routinely use Excel, OrangeML, and Python, each selected according to the complexity of the task and the experience level of the cohort. Excel remains the most immediately accessible platform. It allows students to explore finite difference models, basic stochastic processes, and parameter-driven simulations using cell-based logic. The learning curve is low, which makes it well suited for early-stage undergraduate tasks where the goal is to visualise theory rather than build software. However, its scalability is limited, and its suitability declines rapidly for high-dimensional or data-intensive applications.
 
+For MSc students who are less coding-inclined, I have introduced GUI tools such as OrangeML. It provides a node-based machine learning interface that allows MSc students to work with clustering, regression, and time-series classification techniques without needing to script models from scratch. This bridges the gap between concept and implementation. Students can construct pipelines, adjust model parameters, and visualise outputs—all while gaining intuition for how algorithms behave under different conditions. However, its customisability is limited, and it serves more as an educational stepping stone than a research tool.
 
+MSc students who have prowess in both using and creating technology soluation are directed towards Python, which by contrast, offers full control, extensibility, and integration with numerical libraries such as NumPy, SciPy, and Scikit-learn. It is my primary environment for teaching finite difference models, environmental data processing, and ML workflows involving µCT or time-series data. The trade-off, of course, is that it has a steep learning curve. For students who are not from a programming background, this can present a barrier. To support them, I structure scaffolded notebooks with commented code, embedded visual outputs, and real-world datasets, allowing them to engage with the methods at a depth that matches their ability. Across all platforms, the key decision is not what the tool can do, but what it enables the student to understand and build from. The goal is always to match power with usability and support learning without overwhelming it.
 
-***Case i: Platform Logic and Pedagogical Choice - Mentimeter, Panopto, and Moodle***
+***Reflection***
 
-I first used Moodle at Queen’s University in the early 2010s. At that time, it relied heavily on folder structures and lacked visual clarity. In 2017–2019, I moved to D2L, which introduced conditional release logic, advanced quiz functions, and integrated assessment flows. While flexible, its complexity often outweighed its benefits for straightforward module delivery.
+***Evidence***
 
-In 2021, I taught using Canvas at the University of Birmingham. It offered stronger integration with Turnitin and had a cleaner interface, but its rigid module sequencing and auto-generated calendar features limited flexibility mid-term.
+***References***
 
-Since 2024, I’ve been using Moodle again at the University of Greenwich. I rebuilt asynchronous delivery shells to support hybrid teaching and make lectures resilient to disruption. Each shell followed a standard format: one section per week, clear session titles, downloadable PDFs, and no folder nesting. I deliberately excluded “completion tracking” features, having observed in past modules that students began to treat the course as a checklist rather than an intellectual process. Navigational friction and overcomplexity were stripped out wherever possible.
-
-Panopto recordings were produced for every lecture but explicitly framed as review material. I regularly reminded students that the recordings were not substitutes for engagement or participation; they were scaffolds useful for reinforcement, revisiting worked examples, or catching up when circumstances prevented attendance. Recordings were not segmented or heavily edited. Their utility came from immediacy, not production value.
-
-The main constraints across platforms involved layout rigidity, content management overhead, and poor adaptation to mobile use. The benefits included reliable content access, multimodal recording, and integrated assessment workflows. My platform use was shaped by a consistent aim: to reduce ambiguity and ensure students could locate and use core materials without distraction.
-
-
-
-### Reflection
-### Evidence
-### References
 ## b) Technical knowledge and ability in the use of learning technology
 
 
 ***Case i: Scaling Computational Difficulty: Applying Statistical and Machine Learning Tools in BSc Engineering***
 
 
-
-
 ***Case ii: Moodle Shell Design: Structuring Digital Learning for Engagement and Accessibility***
 
-OVERLEAF??
+OVERLEAF?? The simple smartboard
 
 ***Case iii: Collaborative Coding and Big Data Handling: NC File Slicing and Random Forests in Environmental Modelling***
 
@@ -72,9 +74,6 @@ OVERLEAF??
 
 ### References
 ## c) Supporting the deployment of learning technologies
-
-
-
 
 ***Case i: Jupyter Notebooks for Engineering Education: Supporting Conceptual Mastery***
 
