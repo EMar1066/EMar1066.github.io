@@ -48,7 +48,9 @@ Kirkwood, A. & Price, L. (2014). Technology-enhanced learning and teaching in hi
 
 ## Core Area 1b: Technical knowledge and ability in the use of learning technology
 
- work fluently across a range of technical environments, including Python, MATLAB, FORTRAN, C++, SQL, and HTML. I use GitHub for collaborative version control, Jupyter for interactive analysis, and tools such as TauFactor, PoreSpy, and Palabos for numerical and pore-network modelling. My experience includes building machine learning classifiers, scripting time-series analysis routines, and deploying image-processing pipelines. I have written simulation code for groundwater transport, trained neural networks for geospatial classification, and developed technical visualisations to support both teaching and research.
+I work fluently across a range of technical environments, including Python, Julia, MATLAB, Maple, Visual Basic, FORTRAN, C++, SQL, and HTML. I use GitHub for collaborative version control, Jupyter for interactive analysis, and tools such as TauFactor, PoreSpy, and Palabos for numerical and pore-network modelling which may be implemented in either Windows or Linux envronments, but are gerneraly sandboxed within virtual environments. Communications and course dleivery skills include LaTeX, 
+ 
+ My experience includes numerical modeling, image and time-series analysis as well as machine learning segmenters and classification pipelines. I have written simulation code for groundwater transport, trained neural networks for geospatial classification, and developed technical visualisations to support both teaching and research.
 
 My formal design and writing background also informs how I structure educational material. Before returning to engineering, I worked as a professional editor and graphic designer—skills I now use to build clear, visually coherent lectures and guides that maintain narrative focus across complex topics.
 
