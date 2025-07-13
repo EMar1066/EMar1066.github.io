@@ -15,3 +15,5 @@ Champion and Promoter of Hard Tech Skills in Education
 
 
 Communicator of Topical Ideas and Thought Pieces
+
+ASYNCHRONOOUS GLOBAL EDUCATION
