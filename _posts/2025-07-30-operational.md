@@ -32,6 +32,8 @@ Panopto recordings were produced for every lecture but explicitly framed as revi
 
 The main constraints across platforms involved layout rigidity, content management overhead, and poor adaptation to mobile use. The benefits included reliable content access, multimodal recording, and integrated assessment workflows. My platform use was shaped by a consistent aim: to reduce ambiguity and ensure students could locate and use core materials without distraction.
 
+
+
 ### Reflection
 ### Evidence
 ### References
