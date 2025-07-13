@@ -7,4 +7,11 @@ categories: documentation
 image: Pythonbw.png
 ---
 
-This is a test post to check if posts render.
+Redevelopment and Revitatlisation of Legacy Courses for the Modern Age
+
+
+
+Champion and Promoter of Hard Tech Skills in Education
+
+
+Communicator of Topical Ideas and Thought Pieces
