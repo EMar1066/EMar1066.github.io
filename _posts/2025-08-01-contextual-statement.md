@@ -27,6 +27,7 @@ Within a few years, I found myself at a programming camp, learning the fundament
 
 
 **Why CMALT?**
+
 I am applying for CMALT because it is a well-regarded qualification that reflects thoughtful, critical engagement with technology in education. While my work is situated in engineering rather than dedicated learning technology, the core values of CMALT align closely with how I teach and supervise. These include evidence-based practice, reflective development, and a commitment to student learning. This portfolio offers a chance to consolidate over a decade of technology-enhanced practice and to frame that work more formally within the evolving professional landscape. I see this process not only as recognition. It is also a way to connect with peers across disciplines who are thinking seriously about how we use digital tools to extend learning, not just support it.
 
 
