@@ -20,6 +20,17 @@ image: PunchCardbw.jpg
 <h2 id="Core_Area_1"></h2>
 
 <h2 id="Core_Area_1_a"></h2>
+***Case XXX:PowerPoint vs. Sway vs. Mentimeter***
+sway for takehome materials...yeah, i could see that...POwerpoint is usable.  Mentimeter is awkeard, non accessible and an besides quizzes, crushes all other interpretations of intereactivity.
+
+
+***Case XXX: Moodle vs. D2l vs. Canvas***
+
+***Case XXX: Numeric Solvers***
+Engineering is a science of data. Everything we produce is in essence, and mean and an associated tolerance.
+
+
+
 ***Case i: Platform Logic and Pedagogical Choice - Mentimeter, Panopto, and Moodle***
 
 I first used Moodle at Queen’s University in the early 2010s. At that time, it relied heavily on folder structures and lacked visual clarity. In 2017–2019, I moved to D2L, which introduced conditional release logic, advanced quiz functions, and integrated assessment flows. While flexible, its complexity often outweighed its benefits for straightforward module delivery.
@@ -41,6 +52,9 @@ The main constraints across platforms involved layout rigidity, content manageme
 
 
 ***Case i: Scaling Computational Difficulty: Applying Statistical and Machine Learning Tools in BSc Engineering***
+
+
+
 
 ***Case ii: Moodle Shell Design: Structuring Digital Learning for Engagement and Accessibility***
 
