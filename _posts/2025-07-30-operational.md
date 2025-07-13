@@ -19,7 +19,8 @@ image: PunchCardbw.jpg
 **Core Area 1.a.: Understanding Constraints and Benefits of different technologies**
 <h2 id="Core_Area_1"></h2>
 
-***<h2 id="Core_Area_1_a">Case i: Platform Logic and Pedagogical Choice - Mentimeter, Panopto, and Moodle </h2>***
+<h2 id="Core_Area_1_a"></h2>
+***Case i: Platform Logic and Pedagogical Choice - Mentimeter, Panopto, and Moodle***
 
 I first used Moodle at Queen’s University in the early 2010s. At that time, it relied heavily on folder structures and lacked visual clarity. In 2017–2019, I moved to D2L, which introduced conditional release logic, advanced quiz functions, and integrated assessment flows. While flexible, its complexity often outweighed its benefits for straightforward module delivery.
 
@@ -35,6 +36,8 @@ The main constraints across platforms involved layout rigidity, content manageme
 ### Evidence
 ### References
 ## b) Technical knowledge and ability in the use of learning technology
+
+
 ***Case i: Scaling Computational Difficulty: Applying Statistical and Machine Learning Tools in BSc Engineering***
 
 ***Case ii: Moodle Shell Design: Structuring Digital Learning for Engagement and Accessibility***
@@ -48,10 +51,10 @@ OVERLEAF??
 ### References
 ## c) Supporting the deployment of learning technologies
 
-***Case i: MSc Curriculum: Scaled Use of Machine Learning for Engineering Applications***
 
 
-***Case ii: Jupyter Notebooks for Engineering Education: Supporting Conceptual Mastery***
+
+***Case i: Jupyter Notebooks for Engineering Education: Supporting Conceptual Mastery***
 
 As part of my module redevelopment for Contaminant Hydrogeology and Groundwater Remediation and Hydrosystems Engineering and Management, I have integrated interactive Jupyter notebooks developed by TU Dresden through the iNUX Europe initiative and <a href="https://gw-project.org/interactive-education/">The Groundwater Project – Interactive Education</a>. These notebooks shift traditionally lecture-based content into exploratory, browser-accessible environments where students can interact directly with groundwater models, parameterise scenarios, and visualise results.
 
@@ -62,7 +65,7 @@ The notebooks replace multi-step pen-and-paper tasks with responsive tools that 
 These materials form part of a broader effort to reorient groundwater teaching around open-source tools and reproducible science, with colleagues across the faculty already expressing interest in adaptation for their modules.
 
 
-***Case iii: SYMPLE and INUX Europe: Leading Collaborative EdTech Deployment***
+***Case ii: SYMPLE and INUX Europe: Leading Collaborative EdTech Deployment***
 
 As a curriculum developer and trainer for SYMPLE, I collaborate with colleagues from TU Dresden and Sapienza University of Rome to produce applied hydrogeology materials for
 use in under-resourced regions. This work foregrounds scalable, decision-focused education in groundwater systems and expands my own practice in adapting teaching to diverse technical
