@@ -67,6 +67,11 @@ While I have deep experience coding from scratch, I also work pragmatically with
 ***Reflections***
 
 ***Evidence***
+-Code Snippet for image processing
+-Code Snippet for long term analysis with seasonal variation
+-Code Snippet for nc file slicing
+-MSc project Descriptions
+
 
 ***References***
 
@@ -109,6 +114,10 @@ https://mybinder.org/v2/gh/gw-inux/Jupyter-Notebooks/master
 https://gw-inux.github.io/iNUX-Handbook/?utm_source=chatgpt.com
 ### Reflection
 ### Evidence
+-Jupyter Link, embedded into Moodle
+-Jupyter Development screesnhot?
+-link to SYMPLE webpage
+-link to Email coordinationg work
 ### References
 
 
