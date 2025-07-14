@@ -43,6 +43,10 @@ MSc students who have prowess in both using and creating technology soluation ar
 ***Reflections***
 
 ***Evidence***
+-Moodle shell screenshot
+-Assignment Ogata Banks
+-Solution to Ogata Banks
+-Old PP vs. New?
 
 ***References***
 
