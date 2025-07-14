@@ -91,9 +91,11 @@ These materials form part of a broader effort to reorient groundwater teaching a
 
 As a curriculum developer and trainer for SYMPLE, I collaborate with colleagues from TU Dresden and Sapienza University of Rome to produce applied hydrogeology materials for
 use in under-resourced regions. This work foregrounds scalable, decision-focused education in groundwater systems and expands my own practice in adapting teaching to diverse technical
-and environmental settings. Part of my work with SYMPLE included the development of adn online learning platform, the <a href="https://tu-dresden.de/bu/umwelt/hydro/inux/projekt/ueberblick?set_language=en">iNUX project (Interactive understanding of groundwater hydrogeology and groundwater management)</a>, which is an Erasmus+ funded initiative (2022–2025), led by a collaboration between institutions including the Technical University of Dresden, University of Gothenburg and Universidad Politécnica de Cataluña.
+and environmental settings. Part of my work with SYMPLE included the development of an online learning platform, the <a href="https://tu-dresden.de/bu/umwelt/hydro/inux/projekt/ueberblick?set_language=en">iNUX project (Interactive understanding of groundwater hydrogeology and groundwater management)</a>, which is an Erasmus+ funded initiative (2022–2025), led by a collaboration between institutions including the Technical University of Dresden, University of Gothenburg and Universidad Politécnica de Cataluña.
 
 The goal of the project is to produce open‑source teaching materials such as interactive videos, Jupyter Notebooks and self‑assessment tasks designed to support educators and students in teaching groundwater science at a European and global level. The materials are <a href="https://github.com/gw-inux"> freely available via GitHub</a> and include instructions for contributing and adapting content to local contexts. My role in the development of this open-access Hydrogeological question bank which required data-wranging, classification by Bloom's Taxonomy, subject matter and difficulty,testing and deployment of subject matter.  
+
+https://mybinder.org/v2/gh/gw-inux/Jupyter-Notebooks/master
 
 -Asynchronoous classroom
 -Numerical Modeling and Uncertainty Estimation
