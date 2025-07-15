@@ -101,7 +101,7 @@ Outside of the clasroom, I serve as Principal Investigator and technical lead fo
 
 ## Core Area 1c Supporting the deployment of learning technologies
 
-***ore Area 1c Case i: Jupyter Notebooks for Engineering Education: Supporting Conceptual Mastery***
+***Core Area 1c Case i: Jupyter Notebooks for Engineering Education: Supporting Conceptual Mastery***
 
 As part of my module redevelopment for Contaminant Hydrogeology and Groundwater Remediation and Hydrosystems Engineering and Management, I have integrated interactive Jupyter notebooks developed by TU Dresden through the iNUX Europe initiative and <a href="https://gw-project.org/interactive-education/">The Groundwater Project – Interactive Education</a>. These notebooks shift traditionally lecture-based content into exploratory, browser-accessible environments where students can interact directly with groundwater models, parameterise scenarios, and visualise results.
 
@@ -110,6 +110,17 @@ To enable seamless deployment, I configured Moodle shell links through Binder an
 The notebooks replace multi-step pen-and-paper tasks with responsive tools that allow full control of key variables. By doing so, they preserve cognitive rigour while reducing procedural friction, supporting a deeper conceptual grasp of transient flow, sorption, and transport processes. Although student-facing use begins in 2025–2026, internal testing has confirmed full compatibility, and I have produced draft screencasts and tutorial guides in preparation for launch.
 
 These materials form part of a broader effort to reorient groundwater teaching around open-source tools and reproducible science, with colleagues across the faculty already expressing interest in adaptation for their modules.
+
+***Core Area 1c Case i Evidence***
+
+https://gw-inux.github.io/iNUX-Handbook/
+
+<a href="https://hub.2i2c.mybinder.org/user/gw-inux-jupyter-notebooks-2mkl91ue/notebooks/04_Basic_hydrogeology/GWF_1D_unconf_analytic_v01.ipynb" 
+   target="_blank" 
+   rel="noopener" 
+   style="text-decoration: underline; color: #004080;">
+  -Jupyter Notebook running on Binder (analytical solutions to unconfined aquifer analysis)
+</a>
 
 ***Core Area 1c Case ii: SYMPLE and INUX Europe: Leading Collaborative EdTech Deployment***
 
@@ -120,7 +131,16 @@ This work foregrounds scalable, decision-focused education in groundwater system
 The goal of the project is to produce open‑source teaching materials such as interactive videos, Jupyter Notebooks and self‑assessment tasks designed to support educators and students in teaching groundwater science at a European and global level. The materials are <a href="https://github.com/gw-inux"> freely available via GitHub</a> and include instructions for contributing and adapting content to local contexts. My role in the development of this open-access Hydrogeological question bank which required data-wranging, classification by Bloom's Taxonomy, subject matter and difficulty,testing and deployment of subject matter.  
 
 
-***Core Area 1c Evidence***
+***Core Area 1c Case ii Evidence***
+
+<a href="https://hydrosymple.com/en/about-us/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">
+– Scientific Committee (Symple)
+</a>
+
+<a href="https://hydrosymple.com/en/trainers/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">
+– Instructor (Symple)
+</a>
+
 
 -Asynchronoous classroom
 -Numerical Modeling and Uncertainty Estimation
@@ -144,13 +164,7 @@ https://gw-inux.github.io/iNUX-Handbook/
 – School of Hydrogeological Modeling & Project-Related Strategies (SYMPLE)
 </a>
 
-<a href="https://hydrosymple.com/en/about-us/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">
-– Scientific Committee (Symple)
-</a>
 
-<a href="https://hydrosymple.com/en/trainers/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">
-– Instructor (Symple)
-</a>
 
 -link to SYMPLE webpage
 -link to Email coordinationg work
