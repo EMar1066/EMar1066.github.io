@@ -113,13 +113,14 @@ These materials form part of a broader effort to reorient groundwater teaching a
 
 ***Core Area 1c Case i Evidence***
 
-https://gw-inux.github.io/iNUX-Handbook/
+<a href="/assets/img/MoodleJupyterIntegration.png" target="_blank" style="text-decoration: underline; color: #004080;">-Screenshot: Moodle-Integrated Jupyter Worksheet </a>
 
-<a href="https://hub.2i2c.mybinder.org/user/gw-inux-jupyter-notebooks-2mkl91ue/notebooks/04_Basic_hydrogeology/GWF_1D_unconf_analytic_v01.ipynb" 
+
+<a href="https://hub.2i2c.mybinder.org/user/gw-inux-jupyter-notebooks-2mkl91ue/notebooks/04_Basic_hydrogeology/GWF_1D_unconf_analytic_v01.ipynb"
    target="_blank" 
    rel="noopener" 
    style="text-decoration: underline; color: #004080;">
-  -Jupyter Notebook running on Binder (analytical solutions to unconfined aquifer analysis)
+  -Live Jupyter Notebook running on Binder (analytical solutions to unconfined aquifer analysis)
 </a>
 
 ***Core Area 1c Case ii: SYMPLE and INUX Europe: Leading Collaborative EdTech Deployment***
@@ -133,46 +134,19 @@ The goal of the project is to produce open‑source teaching materials such as i
 
 ***Core Area 1c Case ii Evidence***
 
-<a href="https://hydrosymple.com/en/about-us/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">
-– Scientific Committee (Symple)
-</a>
+<a href="https://hydrosymple.com/en/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">– School of Hydrogeological Modeling & Project-Related Strategies (SYMPLE)</a>
 
-<a href="https://hydrosymple.com/en/trainers/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">
-– Instructor (Symple)
-</a>
+<a href="https://hydrosymple.com/en/about-us/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;"> – Scientific Committee (Symple)</a>
 
+<a href="https://hydrosymple.com/en/trainers/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">– Instructor (Symple)</a>
 
--Asynchronoous classroom
--Numerical Modeling and Uncertainty Estimation
--Global South
--Question Bank Data wranglig  - TU Dresden and Others.
+-ADD FRANCESCA EMAIL DEMONSTRATING COLLABORATION
 
-<a href="https://www.onyx-editor.com/onyxeditor/editor;jsessionid=CBA16C0C2A0F56DCAB4198AFC18A1BED?0">Onyx Editor</a>
-
-<a href="https://tu-dresden.de/studium/im-studium/studienorganisation/lehrangebot/lernplattform-opal?set_language=en))">OPAL (Online Platform for Academic Teaching and Learning at the TU Dresden</a>
-
-https://gw-inux.github.io/iNUX-Handbook/
-
-<a href="https://hub.2i2c.mybinder.org/user/gw-inux-jupyter-notebooks-2mkl91ue/notebooks/04_Basic_hydrogeology/GWF_1D_unconf_analytic_v01.ipynb" 
-   target="_blank" 
-   rel="noopener" 
-   style="text-decoration: underline; color: #004080;">
-  -Jupyter Notebook running on Binder (analytical solutions to unconfined aquifer analysis)
-</a>
-
-<a href="https://hydrosymple.com/en/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">
-– School of Hydrogeological Modeling & Project-Related Strategies (SYMPLE)
-</a>
-
-
-
--link to SYMPLE webpage
--link to Email coordinationg work
 
 ***Core Area 1c Reflections***
 
 
-### References
+** Core Area 1c References***
 
 
 
