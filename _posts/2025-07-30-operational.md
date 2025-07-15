@@ -118,8 +118,31 @@ https://mybinder.org/v2/gh/gw-inux/Jupyter-Notebooks/master
 https://gw-inux.github.io/iNUX-Handbook/?utm_source=chatgpt.com
 ### Reflection
 ### Evidence
--Jupyter Link, embedded into Moodle
--Jupyter Development screesnhot?
+-Jupyter Link for Live Notebook, embedded into Moodle
+
+
+<a href="https://hub.2i2c.mybinder.org/user/gw-inux-jupyter-notebooks-2mkl91ue/notebooks/04_Basic_hydrogeology/GWF_1D_unconf_analytic_v01.ipynb" 
+   target="_blank" 
+   rel="noopener" 
+   style="text-decoration: underline; color: #004080;">
+  -Jupyter Notebook running on Binder (analytical solutions to unconfined aquifer analysis)
+</a>
+
+<a href="https://hydrosymple.com/en/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">
+– School of Hydrogeological Modeling & Project-Related Strategies (SYMPLE)
+</a>
+
+
+
+<a href="https://hydrosymple.com/en/about-us/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">
+– Scientific Committee (Symple)
+</a>
+
+<a href="https://hydrosymple.com/en/trainers/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">
+– Instructor (Symple)
+</a>
+
+
 -link to SYMPLE webpage
 -link to Email coordinationg work
 ### References
