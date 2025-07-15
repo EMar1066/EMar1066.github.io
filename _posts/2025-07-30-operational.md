@@ -115,7 +115,7 @@ https://mybinder.org/v2/gh/gw-inux/Jupyter-Notebooks/master
 
 <a href="https://tu-dresden.de/studium/im-studium/studienorganisation/lehrangebot/lernplattform-opal?set_language=en))">OPAL (Online Platform for Academic Teaching and Learning at the TU Dresden</a>
 
-https://gw-inux.github.io/iNUX-Handbook/?utm_source=chatgpt.com
+https://gw-inux.github.io/iNUX-Handbook/
 ### Reflection
 ### Evidence
 -Jupyter Link for Live Notebook, embedded into Moodle
