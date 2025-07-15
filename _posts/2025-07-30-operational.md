@@ -28,7 +28,9 @@ The field of engineering requires adaptablity and rapid uptake of new tools and 
 
 ***Core Area 1a - Case i: PowerPoint vs. Sway vs. Mentimeter***
 
-In my teaching practice, I rely primarily on PowerPoint for lecture delivery, supplemented selectively by other tools depending on pedagogical need. While many of my CPD courses have been delivered using Mentimeter, which is often praised for its interactivity through quizzes and polls, I have found it unsuitable as a core presentation platform. My lectures often involve animated diagrams, flowline sequences, and real-time annotation to highlight fluid behaviours or trace conceptual relationships. This visual and spatial interactivity, often accompanied by verbal walkthroughs and student note-taking, is central to how I scaffold complex engineering content. Mentimeter, by contrast, limits interactivity to polls and short-form input, without support for animated content, inline editing, or fluid visual pacing. It is also time-consuming to build, lacks accessibility features, and does not accommodate the kind of real-time responsiveness that my subjects demand. For this reason, I use it sparingly, typically for standalone quiz rounds or checkpoint questions, before returning to PowerPoint, which supports the layered, media-rich delivery style that best suits my material. These decisions reflect not only practical constraints, but a deeper consideration of what types of engagement best support understanding. This distinction is explored by Kirkwood and Price (2014), who argue that technology should be judged by how well it supports specific educational goals.
+I began teaching in the early 2010s and started leading modules from 2017. My teaching methods have evolved with the tools available. PowerPoint has remained a staple for lecture delivery, supplemented selectively by other tools depending on pedagogical need. My lectures often involve animated diagrams, flowline sequences, and real-time annotation to highlight fluid behaviours or trace conceptual relationships. This visual and spatial interactivity, paired with verbal walkthroughs and guided note-taking, is central to how I scaffold complex engineering content.
+
+Mentimeter’s standout feature is its polling function, which I use selectively to run in-lecture quizzes and diagnostic questions. These can be useful for pacing, gauging understanding, or inviting participation in large groups. But the platform fails when used beyond that narrow scope. It lacks animation, inline editing, and visual pacing control, but more seriously, it is structurally inaccessible. Slides are rendered as images with no alternative text. Screen readers cannot parse question content or student responses. Keyboard navigation is restricted. The platform assumes full visual and motor access, excluding disabled students by default. For this reason, I use Mentimeter only for standalone polls, Alt+Tabbing to it when useful and returning immediately to PowerPoint, which supports layered, accessible, and pedagogically aligned delivery. 
 
 ***Core Area 1a - Case ii: : Moodle vs. D2l vs. Canvas***
 
@@ -44,14 +46,6 @@ For MSc students who are less coding-inclined, I have introduced GUI tools such 
 
 MSc students who have prowess in both using and creating technology soluation are directed towards Python, which by contrast, offers full control, extensibility, and integration with numerical libraries such as NumPy, SciPy, and Scikit-learn. It is my primary environment for teaching finite difference models, environmental data processing, and ML workflows involving µCT or time-series data. The trade-off, of course, is that it has a steep learning curve. For students who are not from a programming background, this can present a barrier. To support them, I structure scaffolded notebooks with commented code, embedded visual outputs, and real-world datasets, allowing them to engage with the methods at a depth that matches their ability. Across all platforms, the key decision is not what the tool can do, but what it enables the student to understand and build from. The goal is always to match power with usability and support learning without overwhelming it.
 
-
-
-***Reflections***
-
-
-
-
-
 ***Evidence***
 -Moodle shell screenshot
 
@@ -61,7 +55,33 @@ MSc students who have prowess in both using and creating technology soluation ar
 
 -Old PP vs. New?
 
-***References***
+***Core Area 1a Reflections***
+
+Before I finished my PhD, I was already teaching as a TA, mainly using blackboards, whiteboards, even acetates. This was before TEL had momentum, and tools were mostly analogue. That didn’t last long. As digital platforms became more accessible, I adapted quickly. PowerPoint started as a static slide deck, but when tablets and smartboards came in, it became something else entirely: layered, animated, and capable of real-time interaction. I embraced those changes, not because they were new, but because they made better teaching possible.
+Today, Microsoft Office remains the digital backbone of most universities. It is broadly effective, but far from seamless. While the suite presents as integrated, its components often behave like competing siblings: shortcuts shift between apps, formatting collapses when slides are shared across platforms, and we’ve all gained white hairs from trying to convince Excel that a number is indeed not a date, or tried to write text that wraps around pictures in Word that results in a wild goose chase in hot pursuit of an image on the run. These issues are not just anecdotal; usability studies, including those by Lu et al. (2022), have documented persistent friction points in Office-based teaching environments, particularly around content portability and interface predictability. Even so, the usefulness of a universal platform like PowerPoint for structuring material, enabling visual engagement, and supporting accessibility, still makes it a flawed but central character in my pedagogical repertoire.
+
+Mentimeter is often praised for driving engagement, but the problems are difficult to ignore. Unless a session is built entirely within the platform, accessibility collapses: animations vanish, edits lock, results disappear with a browser refresh. I’ve watched phones freeze mid-poll. These are patterns I now plan around. While studies report increased enjoyment and perceived engagement (Cutri & Mikkonen, 2021; Dervan, 2014), engagement is not the same as learning. As Selwyn (2016) warns, many digital tools prioritise participation metrics over cognitive depth. In my own teaching, I’ve seen students light up briefly during a poll, then fade just as quickly. The burst of activity doesn’t translate into conceptual development. Over time, I’ve shifted away from polling as a centrepiece. Now I use it sparingly, pairing it with problem-based discussion that sustains attention through reasoning over novelty. 
+
+I still use Mentimeter, but only for what it does well: quick polling. I Alt+Tab to it when the moment fits, then return immediately to my main lecture flow. I don’t regard it as a fully formed teaching platform, but more as a disembodied, yet useful feature. This distinction is explored by Kirkwood and Price (2014), who argue that technology should be judged by how well it supports specific educational goals. Tools like this, along with legacy systems like Microsoft Office, reflect a broader trend: much of the educational software in use today is designed around institutional convenience, not pedagogical value (Castañeda & Selwyn, 2018). That misalignment leads to compromises in usability, flexibility, and ultimately in learning. My approach now is shaped by experience: test tools critically, use them selectively, and always design around the thinking I want students to do rather than the features a platform wants me to use.
+
+Platforms like Moodle, D2L, and Canvas are chosen institutionally, not pedagogically.  Often, the selection isn’t based less on what’s innovative than what doesn’t break anything that’s already in place.  Their adoption is shaped by procurement structures and IT policy, not teaching need. Empirical studies have documented persistent usability issues in these systems, including interface complexity and poor user experience (Vlachogianni & Tselios, 2023; Lu et al., 2022). But despite their limitations, it is possible to make them work, if one takes the time. I’ve used these platforms effectively as distribution systems for readings, worked examples, and video lectures. More importantly, they have enabled me to deliver learning tools that were once impractical, such as embedding Jupyter notebooks for hands-on simulation and data analysis.
+In selecting and deploying educational software, I’ve found the balance between power and learning curve to be critical. A tool that’s too simplistic teaches little; one that’s too complex alienates before it enlightens. This principle underpins my platform choices: Excel for conceptual grounding, OrangeML for model intuition, and Python for scalable depth. The aim is always to create conditions where students can explore, build, and iterate, without being overwhelmed. As Laurillard (2013) argues, effective digital learning environments must scaffold conceptual development while allowing room for authentic practice. I’ve come to see tool choice not as a technical decision, but as a pedagogical one anchored in how students learn, and what they’re ready to take on next.
+
+***Core Area 1a References***
+
+* Castañeda, L. and Selwyn, N., 2018. More than tools? Making sense of the ongoing digitizations of higher education. International Journal of Educational Technology in Higher Education, 15(1), p.22. https://doi.org/10.1186/s41239-018-0109-y
+
+* Cutri, R.M. and Mikkonen, J., 2021. Student perceptions of using Mentimeter as a student response system in higher education. Education and Information Technologies, 26, pp.6557–6573. https://doi.org/10.1007/s10639-021-10589-5
+
+* Dervan, P., 2014. Increasing in-class student engagement using Mentimeter, an interactive presentation software. AISHE-J: The All Ireland Journal of Teaching and Learning in Higher Education, 6(3), pp.1801–1815.
+
+* Laurillard, D., 2013. Teaching as a Design Science: Building Pedagogical Patterns for Learning and Technology. New York: Routledge.
+
+* Lu, J., Schmidt, M., Lee, M. and Huang, R., 2022. Usability research in educational technology: A state-of-the-art systematic review. Educational Technology Research and Development, 70(6), pp.1951–1992. https://doi.org/10.1007/s11423-022-10152-6
+
+* Selwyn, N., 2016. Is Technology Good for Education? Cambridge: Polity Press.
+
+* Vlachogianni, P. and Tselios, N., 2023. Perceived usability evaluation of educational technology using the post-study system usability questionnaire (PSSUQ): a systematic review. Sustainability, 15(17), p.12954.
 
 Kirkwood, A. & Price, L. (2014). Technology-enhanced learning and teaching in higher education: what is ‘enhanced’ and how do we know? A critical literature review. Learning, Media and Technology, 39(1), 6–36.  https://doi.org/10.1080/17439884.2013.770404
 
