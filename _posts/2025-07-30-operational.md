@@ -99,7 +99,7 @@ Outside of the clasroom, I serve as Principal Investigator and technical lead fo
 
 
 
-##Core Area 1c Supporting the deployment of learning technologies
+## Core Area 1c Supporting the deployment of learning technologies
 
 ***ore Area 1c Case i: Jupyter Notebooks for Engineering Education: Supporting Conceptual Mastery***
 
