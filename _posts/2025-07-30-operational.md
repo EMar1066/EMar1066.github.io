@@ -170,7 +170,7 @@ As a curriculum developer and trainer for <a href="https://hydrosymple.com/en/" 
 
 This work foregrounds scalable, decision-focused education in groundwater systems and expands my own practice in adapting teaching to diverse technical and environmental settings. Part of my work with SYMPLE included the development of an online learning platform, the <a href="https://tu-dresden.de/bu/umwelt/hydro/inux/projekt/ueberblick?set_language=en">iNUX project (Interactive understanding of groundwater hydrogeology and groundwater management)</a>, which is an Erasmus+ funded initiative (2022–2025), led by a collaboration between institutions including the Technical University of Dresden, University of Gothenburg and Universidad Politécnica de Cataluña.
 
-The goal of the project is to produce open‑source teaching materials such as interactive videos, Jupyter Notebooks and self‑assessment tasks designed to support educators and students in teaching groundwater science at a European and global level. The materials are <a href="https://github.com/gw-inux"> freely available via GitHub</a> and include instructions for contributing and adapting content to local contexts. My role in the development of this open-access Hydrogeological question bank which required data-wranging, classification by Bloom's Taxonomy, subject matter and difficulty,testing and deployment of subject matter.  
+The goal of the project is to produce open‑source teaching materials such as interactive videos, Jupyter Notebooks and self‑assessment tasks designed to support educators and students in teaching groundwater science at a European and global level. The materials are <a href="https://github.com/gw-inux"> freely available via GitHub</a> and include instructions for contributing and adapting content to local contexts. My role in the development of this open-access Hydrogeological question bank which required data-wranging, classification by Bloom's Taxonomy of Cognitive Objectives (1956), subject matter and difficulty,testing and deployment of subject matter.  
 
 
 ***Core Area 1c Case ii Evidence***
@@ -186,10 +186,33 @@ The goal of the project is to produce open‑source teaching materials such as i
 
 ***Core Area 1c Reflections***
 
+Integrating Jupyter notebooks into my groundwater modules changed how students interacted with the subject matter. Real-time parameter controls and visual outputs gave them a clearer understanding of fluid behaviour than static examples or manual calculations typically allow. The notebooks helped students test assumptions, see relationships, and build intuition for how groundwater systems respond under varying conditions.
 
-** Core Area 1c References***
+I configured deployment through Binder and JupyterHub to avoid installation issues and simplify access via Moodle. This allowed students to focus on the models themselves rather than setup or troubleshooting. The interface was designed to be accessible and logically structured, helping students engage with core ideas without added complexity.
+
+Class feedback from the initial integration Module (ENVI-1195 Contaminant Hydrogeology and Groundwater Remediation) was positive. Students found the models approachable, especially the ability to experiment and revisit key concepts between lectures. Based on this reception, the notebooks now have a regular presence across the module, supporting independent study and problem-solving outside of scheduled contact hours. This iterative use reinforces understanding and aligns with Bruner’s (1960) principle of revisiting foundational ideas at increasing levels of complexity. It also reflects Sweller et al.’s (2011) work on reducing cognitive load to support deeper conceptual development.
+
+SYMPLE and iNUX are related projects with shared leadership and a shared philosophy: open-source tools for open-access education. Both are led by TU Dresden, and both focus on groundwater modelling and decision-making in diverse, global contexts. My role bridged the pedagogical and technical: I handled the structuring, cleaning, and classification of a large dataset of hydrogeology questions to ready them for deployment across institutions.
+
+This was not just a content exercise. It required thinking about modularity, clarity, and reuse—how to make learning artefacts that would hold up in different languages, curricular settings, and delivery modes (Conole, 2013). Classifying questions by Bloom’s taxonomy gave the bank internal structure; hosting through GitHub gave it longevity and adaptability (Beetham et al., 2012).
+
+These resources now serve multiple universities and training programmes. More than that, they reflect a scalable model for collaborative content development—one that doesn’t just deliver learning, but distributes the means to teach. Working on these projects reinforced for me that educational technology, when built for openness and reuse, can expand access without lowering rigour (Hilton, 2016; Beetham et al., 2012).
 
 
+
+***Core Area 1c References***
+
+* Beetham, H., Falconer, I., McGill, L. and Littlejohn, A., 2012. Open practices: Briefing paper.
+ 
+* Bloom, B., 1956. A taxonomy of cognitive objectives. New York: McKay.
+  
+* Bruner, J.S., 1960. The Process of Education, Harvard, Univ. Press, Cambridge, Mass.
+
+* Conole, G., 2012. Designing for learning in an open world (Vol. 4). Springer Science & Business Media.
+
+* Hilton III, J., 2016. Open educational resources and college textbook choices: A review of research on efficacy and perceptions. Educational technology research and development, 64(4), pp.573-590.
+
+* Sweller, J., Ayres, P. and Kalyuga, S., 2011. Emerging themes in cognitive load theory: the transient information and the collective working memory effects. In Cognitive load theory (pp. 219-233). New York, NY: Springer New York.
 
 
 This is a test post to check if posts render.
