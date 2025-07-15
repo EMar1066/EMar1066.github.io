@@ -44,6 +44,8 @@ For MSc students who are less coding-inclined, I have introduced GUI tools such 
 
 MSc students who have prowess in both using and creating technology soluation are directed towards Python, which by contrast, offers full control, extensibility, and integration with numerical libraries such as NumPy, SciPy, and Scikit-learn. It is my primary environment for teaching finite difference models, environmental data processing, and ML workflows involving µCT or time-series data. The trade-off, of course, is that it has a steep learning curve. For students who are not from a programming background, this can present a barrier. To support them, I structure scaffolded notebooks with commented code, embedded visual outputs, and real-world datasets, allowing them to engage with the methods at a depth that matches their ability. Across all platforms, the key decision is not what the tool can do, but what it enables the student to understand and build from. The goal is always to match power with usability and support learning without overwhelming it.
 
+
+
 ***Reflections***
 
 
@@ -60,7 +62,9 @@ MSc students who have prowess in both using and creating technology soluation ar
 
 Kirkwood, A. & Price, L. (2014). Technology-enhanced learning and teaching in higher education: what is ‘enhanced’ and how do we know? A critical literature review. Learning, Media and Technology, 39(1), 6–36.  https://doi.org/10.1080/17439884.2013.770404
 
-## Core Area 1b: Technical knowledge and ability in the use of learning technology
+## Core Area 1b: Technical Knowledge and Ability in the use of Learning Technology
+
+**Core Area 1b Case i: Technological Proficiency**
 
 Over my two decades of research, regulatory and teaching experience I have beocme fluent across a range of technical environments, including Python, Julia, MATLAB, Maple, Visual Basic, FORTRAN, C++, SQL, HTML and others. I use GitHub for collaborative version control, Jupyter for interactive analysis, and tools such as TauFactor, PoreSpy, and Palabos for numerical and pore-network modelling which may be implemented in either Windows or Linux envronments, but are gerneraly sandboxed within virtual environments. Communications and course dleivery skills include LaTeX, 
  
@@ -73,6 +77,9 @@ In the undergraduate curriculum, I apply these skills to design problem-solving 
 At the MSc level, I co-develop machine learning and modelling pipelines with students. One current project involves permeability estimation from µCT image data using random forests. We work via shared GitHub repositories, where I support the codebase and integrate advanced simulation tools. In past work, I’ve supervised students through the full development of environmental classification models and advised on adapting research code for industrial application.
 
 Outside of the clasroom, I serve as Principal Investigator and technical lead for national-level data challenges run by The Alan Turing Institute. I have facilitated or led three Data Study Group projects, including thin-section image segmentation, seismic scan OCR, and SAR time-series spill detection. These roles require high-level technical judgement, fast deployment of working pipelines, and team mentoring across diverse specialisms.
+
+
+**Core Area 1b Case ii: Usage of Appropriately-Scaled Learning Technological**
 
 ***Reflections***
 
