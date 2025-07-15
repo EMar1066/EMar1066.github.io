@@ -99,9 +99,9 @@ Outside of the clasroom, I serve as Principal Investigator and technical lead fo
 
 
 
-## c) Supporting the deployment of learning technologies
+##Core Area 1c Supporting the deployment of learning technologies
 
-***Case i: Jupyter Notebooks for Engineering Education: Supporting Conceptual Mastery***
+***ore Area 1c Case i: Jupyter Notebooks for Engineering Education: Supporting Conceptual Mastery***
 
 As part of my module redevelopment for Contaminant Hydrogeology and Groundwater Remediation and Hydrosystems Engineering and Management, I have integrated interactive Jupyter notebooks developed by TU Dresden through the iNUX Europe initiative and <a href="https://gw-project.org/interactive-education/">The Groundwater Project – Interactive Education</a>. These notebooks shift traditionally lecture-based content into exploratory, browser-accessible environments where students can interact directly with groundwater models, parameterise scenarios, and visualise results.
 
@@ -111,14 +111,16 @@ The notebooks replace multi-step pen-and-paper tasks with responsive tools that 
 
 These materials form part of a broader effort to reorient groundwater teaching around open-source tools and reproducible science, with colleagues across the faculty already expressing interest in adaptation for their modules.
 
-
-***Case ii: SYMPLE and INUX Europe: Leading Collaborative EdTech Deployment***
+***Core Area 1c Case ii: SYMPLE and INUX Europe: Leading Collaborative EdTech Deployment***
 
 As a curriculum developer and trainer for <a href="https://hydrosymple.com/en/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">the School of Hydrogeological Modeling & Project-Related Strategies (SYMPLE)</a>, I collaborate with colleagues from industry,TU Dresden and Sapienza University of Rome to produce applied hydrogeology material for environmental and water resource professionals.  Typically, learners have foundational theory in place but wish to extend their numerical modleing and uncertainty estimation abilities. They are glolbablly diverse, with majority representaiton from the global south and under-resourced regions (<a href="https://hydrosymple.com/en/trainers/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">Evidence)</a>.
 
 This work foregrounds scalable, decision-focused education in groundwater systems and expands my own practice in adapting teaching to diverse technical and environmental settings. Part of my work with SYMPLE included the development of an online learning platform, the <a href="https://tu-dresden.de/bu/umwelt/hydro/inux/projekt/ueberblick?set_language=en">iNUX project (Interactive understanding of groundwater hydrogeology and groundwater management)</a>, which is an Erasmus+ funded initiative (2022–2025), led by a collaboration between institutions including the Technical University of Dresden, University of Gothenburg and Universidad Politécnica de Cataluña.
 
 The goal of the project is to produce open‑source teaching materials such as interactive videos, Jupyter Notebooks and self‑assessment tasks designed to support educators and students in teaching groundwater science at a European and global level. The materials are <a href="https://github.com/gw-inux"> freely available via GitHub</a> and include instructions for contributing and adapting content to local contexts. My role in the development of this open-access Hydrogeological question bank which required data-wranging, classification by Bloom's Taxonomy, subject matter and difficulty,testing and deployment of subject matter.  
+
+
+***Core Area 1c Evidence***
 
 -Asynchronoous classroom
 -Numerical Modeling and Uncertainty Estimation
@@ -130,10 +132,6 @@ The goal of the project is to produce open‑source teaching materials such as i
 <a href="https://tu-dresden.de/studium/im-studium/studienorganisation/lehrangebot/lernplattform-opal?set_language=en))">OPAL (Online Platform for Academic Teaching and Learning at the TU Dresden</a>
 
 https://gw-inux.github.io/iNUX-Handbook/
-### Reflection
-### Evidence
-
-
 
 <a href="https://hub.2i2c.mybinder.org/user/gw-inux-jupyter-notebooks-2mkl91ue/notebooks/04_Basic_hydrogeology/GWF_1D_unconf_analytic_v01.ipynb" 
    target="_blank" 
@@ -154,9 +152,12 @@ https://gw-inux.github.io/iNUX-Handbook/
 – Instructor (Symple)
 </a>
 
-
 -link to SYMPLE webpage
 -link to Email coordinationg work
+
+***Core Area 1c Reflections***
+
+
 ### References
 
 
