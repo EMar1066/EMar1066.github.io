@@ -213,6 +213,3 @@ These resources now serve multiple universities and training programmes. More th
 * Hilton III, J., 2016. Open educational resources and college textbook choices: A review of research on efficacy and perceptions. Educational technology research and development, 64(4), pp.573-590.
 
 * Sweller, J., Ayres, P. and Kalyuga, S., 2011. Emerging themes in cognitive load theory: the transient information and the collective working memory effects. In Cognitive load theory (pp. 219-233). New York, NY: Springer New York.
-
-
-This is a test post to check if posts render.
