@@ -117,10 +117,27 @@ Beyond the classroom, I serve as Principal Investigator and technical lead for n
 -MSc project Descriptions
 
 
+***Core Area 1b Reflections***
+
+My relationship with technology began long before teaching. I was ten when I started coding on an Apple IIe. By thirteen, I was learning BASIC at summer camp. In high school, the focus shifted to HTML and object-oriented programming. When I began teaching in Canada, years before my PhD, I was already using code to solve problems, explain concepts, and build structures that made sense to others. That habit has remained. What’s changed is the precision of the tools.
+
+Like a carpenter with access to power tools, I’ve expanded what I can build. But the skill is in the joins. Technology allows me to plan more clearly, structure more tightly, and shape how learning unfolds. Whether I’m constructing a simulation workflow or a scaffolded spreadsheet, the aim is the same: build environments that hold together. As Laurillard (2012) argues, technology in teaching must be a matter of deliberate design, tools used to shape conceptual progress.
+
+This principle guides my choices. Some students co-develop machine learning models with me. Others use spreadsheet environments to explore systems and test assumptions. Biggs and Tang (2011) emphasise that method must align with outcome. Beetham and Sharpe (2007) remind us that digital platforms gain value only through pedagogical purpose.
+
+Structure matters. Kirschner, Sweller, and Clark (2006) show that students benefit most from guided, well-sequenced instruction. A polished tool doesn’t teach on its own. A scaffolded, logical progression does. I’ve seen students learn more from a notebook that builds one idea at a time than from a fast-paced lecture filled with features.
+
+These are not purely technical decisions; they are pedagogical. The aim is to help students build something meaningful, whether it’s a model or an idea that holds under pressure.
+
 ***Core Area 1b References***
 
+* Beetham, H. and Sharpe, R., 2007. Rethinking pedagogy for a digital age: Designing and delivering e-learning. London: Routledge.
 
+* Biggs, J., Tang, C. and Kennedy, G., 2022. Teaching for quality learning at university. 5th ed. Maidenhead: McGraw-Hill Education (UK).
 
+* Kirschner, P.A., Sweller, J. and Clark, R.E., 2006. Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. Educational Psychologist, 41(2), pp.75–86. https://doi.org/10.1207/s15326985ep4102_1
+
+* Laurillard, D., 2013. Teaching as a design science: Building pedagogical patterns for learning and technology. Abingdon: Routledge.
 
 
 ## Core Area 1c Supporting the deployment of learning technologies
