@@ -5,6 +5,7 @@ date: 2025-07-30
 categories: blog
 image: PunchCardbw.jpg
 ---
+## Preface 
 
 <p style="font-size: 1.5em; text-align: center;">
 <em> “Technological change is not additive; it is ecological.”</em>
@@ -14,7 +15,10 @@ image: PunchCardbw.jpg
 <em>–Neil Postman </em>
 </p>
 
-## Preface 
+
+
+The field of engineering requires adaptablity and rapid uptake of new tools and working environments.
+
 
 ## Core Area 1a: Understanding Constraints and Benefits of different technologies
 <h2 id="Core_Area_1"></h2>
@@ -42,6 +46,10 @@ MSc students who have prowess in both using and creating technology soluation ar
 
 ***Reflections***
 
+
+
+
+
 ***Evidence***
 -Moodle shell screenshot
 -Assignment Ogata Banks
@@ -54,7 +62,7 @@ Kirkwood, A. & Price, L. (2014). Technology-enhanced learning and teaching in hi
 
 ## Core Area 1b: Technical knowledge and ability in the use of learning technology
 
-I work fluently across a range of technical environments, including Python, Julia, MATLAB, Maple, Visual Basic, FORTRAN, C++, SQL, and HTML. I use GitHub for collaborative version control, Jupyter for interactive analysis, and tools such as TauFactor, PoreSpy, and Palabos for numerical and pore-network modelling which may be implemented in either Windows or Linux envronments, but are gerneraly sandboxed within virtual environments. Communications and course dleivery skills include LaTeX, 
+Over my two decades of research, regulatory and teaching experience I have beocme fluent across a range of technical environments, including Python, Julia, MATLAB, Maple, Visual Basic, FORTRAN, C++, SQL, HTML and others. I use GitHub for collaborative version control, Jupyter for interactive analysis, and tools such as TauFactor, PoreSpy, and Palabos for numerical and pore-network modelling which may be implemented in either Windows or Linux envronments, but are gerneraly sandboxed within virtual environments. Communications and course dleivery skills include LaTeX, 
  
  My experience includes numerical modeling, image and time-series analysis as well as machine learning segmenters and classification pipelines. I have written simulation code for groundwater transport, trained neural networks for geospatial classification, and developed technical visualisations to support both teaching and research.
 
@@ -64,11 +72,12 @@ In the undergraduate curriculum, I apply these skills to design problem-solving 
 
 At the MSc level, I co-develop machine learning and modelling pipelines with students. One current project involves permeability estimation from µCT image data using random forests. We work via shared GitHub repositories, where I support the codebase and integrate advanced simulation tools. In past work, I’ve supervised students through the full development of environmental classification models and advised on adapting research code for industrial application.
 
-Beyond the classroom, I serve as Principal Investigator and technical lead for national-level data challenges run by The Alan Turing Institute. I have facilitated or led three Data Study Group projects, including thin-section image segmentation, seismic scan OCR, and SAR time-series spill detection. These roles require high-level technical judgement, fast deployment of working pipelines, and team mentoring across diverse specialisms.
-
-While I have deep experience coding from scratch, I also work pragmatically within institutional platforms. I’ve used Moodle since 2009, and previously taught with D2L and Canvas. My Moodle shells are structured for clarity and include embedded materials, labelled blocks, and integrated tools. I use PowerPoint as my primary delivery tool for its precise pacing and support for animated diagrams; I use Mentimeter sparingly when it adds value for rapid polling or diagnostics. Each platform is assessed on what it affords—not how it markets itself.
+Outside of the clasroom, I serve as Principal Investigator and technical lead for national-level data challenges run by The Alan Turing Institute. I have facilitated or led three Data Study Group projects, including thin-section image segmentation, seismic scan OCR, and SAR time-series spill detection. These roles require high-level technical judgement, fast deployment of working pipelines, and team mentoring across diverse specialisms.
 
 ***Reflections***
+
+
+
 
 ***Evidence***
 -Code Snippet for image processing
@@ -98,13 +107,9 @@ These materials form part of a broader effort to reorient groundwater teaching a
 
 ***Case ii: SYMPLE and INUX Europe: Leading Collaborative EdTech Deployment***
 
-As a curriculum developer and trainer for SYMPLE, I collaborate with colleagues from TU Dresden and Sapienza University of Rome to produce applied hydrogeology materials for
-use in under-resourced regions. This work foregrounds scalable, decision-focused education in groundwater systems and expands my own practice in adapting teaching to diverse technical
-and environmental settings. Part of my work with SYMPLE included the development of an online learning platform, the <a href="https://tu-dresden.de/bu/umwelt/hydro/inux/projekt/ueberblick?set_language=en">iNUX project (Interactive understanding of groundwater hydrogeology and groundwater management)</a>, which is an Erasmus+ funded initiative (2022–2025), led by a collaboration between institutions including the Technical University of Dresden, University of Gothenburg and Universidad Politécnica de Cataluña.
+As a curriculum developer and trainer for SYMPLE, I collaborate with colleagues from TU Dresden and Sapienza University of Rome to produce applied hydrogeology material for environmental and water resource professionals.  Typically, learners have foundational theory in place but wish to extend their numerical modleing and uncertainty estimation abilities. They are glolbablly diverse, with majority representaiton from the global south and under-resourced regions. This work foregrounds scalable, decision-focused education in groundwater systems and expands my own practice in adapting teaching to diverse technical and environmental settings. Part of my work with SYMPLE included the development of an online learning platform, the <a href="https://tu-dresden.de/bu/umwelt/hydro/inux/projekt/ueberblick?set_language=en">iNUX project (Interactive understanding of groundwater hydrogeology and groundwater management)</a>, which is an Erasmus+ funded initiative (2022–2025), led by a collaboration between institutions including the Technical University of Dresden, University of Gothenburg and Universidad Politécnica de Cataluña.
 
 The goal of the project is to produce open‑source teaching materials such as interactive videos, Jupyter Notebooks and self‑assessment tasks designed to support educators and students in teaching groundwater science at a European and global level. The materials are <a href="https://github.com/gw-inux"> freely available via GitHub</a> and include instructions for contributing and adapting content to local contexts. My role in the development of this open-access Hydrogeological question bank which required data-wranging, classification by Bloom's Taxonomy, subject matter and difficulty,testing and deployment of subject matter.  
-
-https://mybinder.org/v2/gh/gw-inux/Jupyter-Notebooks/master
 
 -Asynchronoous classroom
 -Numerical Modeling and Uncertainty Estimation
@@ -118,7 +123,7 @@ https://mybinder.org/v2/gh/gw-inux/Jupyter-Notebooks/master
 https://gw-inux.github.io/iNUX-Handbook/
 ### Reflection
 ### Evidence
--Jupyter Link for Live Notebook, embedded into Moodle
+
 
 
 <a href="https://hub.2i2c.mybinder.org/user/gw-inux-jupyter-notebooks-2mkl91ue/notebooks/04_Basic_hydrogeology/GWF_1D_unconf_analytic_v01.ipynb" 
@@ -131,8 +136,6 @@ https://gw-inux.github.io/iNUX-Handbook/
 <a href="https://hydrosymple.com/en/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">
 – School of Hydrogeological Modeling & Project-Related Strategies (SYMPLE)
 </a>
-
-
 
 <a href="https://hydrosymple.com/en/about-us/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">
 – Scientific Committee (Symple)
