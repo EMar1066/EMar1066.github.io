@@ -54,8 +54,11 @@ MSc students who have prowess in both using and creating technology soluation ar
 
 ***Evidence***
 -Moodle shell screenshot
+
 -Assignment Ogata Banks
+
 -Solution to Ogata Banks
+
 -Old PP vs. New?
 
 ***References***
@@ -81,19 +84,24 @@ Outside of the clasroom, I serve as Principal Investigator and technical lead fo
 
 **Core Area 1b Case ii: Usage of Appropriately-Scaled Learning Technological**
 
-***Reflections***
 
 
 
 
-***Evidence***
--Code Snippet for image processing
+
+***Core Area 1b Evidence***
+
+<a href="/assets/img/DSG_PI_Criteria.pdf" target="_blank" style="text-decoration: underline; color: #004080;">-Requirements (including techonogical ability) for Primary Investigator Position at The Alan Turing Institute as Affirmation of Skillset</a>
+
+<a href="/assets/img/representativecode.jpg" target="_blank" style="text-decoration: underline; color: #004080;">-Representative Code Snippet for Rock Flow Properties Analysis (MSc mentorship project)</a>
+
+
 -Code Snippet for long term analysis with seasonal variation
 -Code Snippet for nc file slicing
 -MSc project Descriptions
 
 
-***References***
+***Core Area 1b References***
 
 
 
