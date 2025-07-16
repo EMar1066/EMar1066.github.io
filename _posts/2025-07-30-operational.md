@@ -158,6 +158,8 @@ These materials form part of a broader effort to reorient groundwater teaching a
 
 ***Core Area 1c Case i Evidence***
 
+MAKE EXAMPLES MATCH!!!!
+
 <a href="/assets/img/MoodleJupyterIntegration.png" target="_blank" style="text-decoration: underline; color: #004080;">-Screenshot: Moodle-Integrated Jupyter Worksheet </a>
 
 <a href="https://gwf-1d-unconf-analytic.streamlit.app/" target="_blank" style="text-decoration: underline; color: #004080;">– Launch Interactive Notebook via Streamlit App: Analytical solution for 1D unconfined flow with two defined head boundaries </a>
