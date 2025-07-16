@@ -162,23 +162,15 @@ MAKE EXAMPLES MATCH!!!!
 
 <a href="/assets/img/MoodleJupyterIntegration.png" target="_blank" style="text-decoration: underline; color: #004080;">-Screenshot: Moodle-Integrated Jupyter Worksheet </a>
 
-<a href="https://gwf-1d-unconf-analytic.streamlit.app/" target="_blank" style="text-decoration: underline; color: #004080;">– Launch Interactive Notebook via Streamlit App: Analytical solution for 1D unconfined flow with two defined head boundaries </a>
-
-
-<a href="https://mybinder.org/v2/gh/EMar1066/HydroG-Jupyter-Notebooks/main?urlpath=voila/render/notebooks/04_Basic_hydrogeology/GWF_1D_unconf_analytic_BC3.ipynb" 
-   target="_blank" 
-   rel="noopener" 
-   style="text-decoration: underline; color: #004080;">
-   - Launch Jupyter Slide with Streamjet (Unconfined Aquifer Analytic Solution)
-</a>
-
-
 <a href="https://mybinder.org/v2/gh/gw-inux/Jupyter-Notebooks/HEAD?filepath=04_Basic_hydrogeology/GWF_1D_unconf_analytic_BC3.ipynb"
    target="_blank" 
    rel="noopener" 
    style="text-decoration: underline; color: #004080;">
 – Launch Interactive Notebook via Binder: Analytical solution for 1D unconfined flow with two defined head boundaries 
-</a>
+</a> - Useful for demonstrating or modifying coded solutions to presented theory, code can be run by view->collapse all cells and run->run all cells
+
+
+<a href="https://gwf-1d-unconf-analytic.streamlit.app/" target="_blank" style="text-decoration: underline; color: #004080;">– Launch Interactive Notebook via Streamlit: Analytical solution for 1D unconfined flow with two defined head boundaries </a> - Useful for drawing focus to theory without distraction. No run controls required.
 
 
 ***Core Area 1c Case ii: SYMPLE and INUX Europe: Leading Collaborative EdTech Deployment***
