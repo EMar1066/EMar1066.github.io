@@ -160,14 +160,14 @@ These materials form part of a broader effort to reorient groundwater teaching a
 
 <a href="/assets/img/MoodleJupyterIntegration.png" target="_blank" style="text-decoration: underline; color: #004080;">-Screenshot: Moodle-Integrated Jupyter Worksheet </a>
 
-<a href="https://gwf-1d-unconf-analytic.streamlit.app/" target="_blank" style="text-decoration: underline; color: #004080;">– Launch Interactive Notebook as Streamlit App: Unconfined Flow to a Well (Thiem) </a>
+<a href="https://gwf-1d-unconf-analytic.streamlit.app/" target="_blank" style="text-decoration: underline; color: #004080;">– Launch Interactive Notebook via Streamlit App: Analytical solution for 1D unconfined flow with two defined head boundaries </a>
 
 
 <a href="https://mybinder.org/v2/gh/gw-inux/Jupyter-Notebooks/HEAD?filepath=04_Basic_hydrogeology/GWF_1D_unconf_analytic_v01.ipynb"
    target="_blank" 
    rel="noopener" 
    style="text-decoration: underline; color: #004080;">
-– Jupyter Notebook running on Binder (official Binder instance)
+– Launch Interactive Notebook via Binder: Analytical solution for 1D unconfined flow with two defined head boundaries 
 </a>
 
 
