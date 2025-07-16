@@ -146,7 +146,11 @@ These are not purely technical decisions; they are pedagogical. The aim is to he
 
 As part of my module redevelopment for Contaminant Hydrogeology and Groundwater Remediation and Hydrosystems Engineering and Management, I have integrated interactive Jupyter notebooks developed by TU Dresden through the iNUX Europe initiative and <a href="https://gw-project.org/interactive-education/">The Groundwater Project – Interactive Education</a>. These notebooks shift traditionally lecture-based content into exploratory, browser-accessible environments where students can interact directly with groundwater models, parameterise scenarios, and visualise results.
 
-To enable seamless deployment, I configured Moodle shell links through Binder and JupyterHub pipelines, removing the need for local installation or advanced setup. This scaffolding supports digital equity and accessibility across diverse student hardware and skill levels. The aim is to increase engagement while aligning learning activities with Bloom’s higher-order skills: application, analysis, and evaluation.
+To enable seamless deployment, I initially configured Moodle shell links through Binder and JupyterHub pipelines, removing the need for local installation or advanced setup. This scaffolding supports digital equity and accessibility across diverse student hardware and skill levels, while aiming to increase engagement and align learning activities with Bloom’s higher-order skills: application, analysis, and evaluation.
+
+However, Binder introduces its own usability issues for students. Launch times can be slow, and the use of temporary codespaces exposes notebook code by default—often disorienting for students unfamiliar with Jupyter or uninterested in programming structure. Students would have to access the menu, collapse all code windows and run all script, which adds uneccsary steps to the intention of the tehcnology: To teach groundwater science. The experience lacks the polish needed for performance-focused or non-technical audiences. 
+
+As an altertive I opted to deploy Streamlit versions of the same iNUX models. These apps offer faster load times, automatic execution, and a cleaner interface—closer to a scientific calculator than a notebook shell. For many students, this format reduces friction and keeps focus on conceptual reasoning rather than tool navigation.
 
 The notebooks replace multi-step pen-and-paper tasks with responsive tools that allow full control of key variables. By doing so, they preserve cognitive rigour while reducing procedural friction, supporting a deeper conceptual grasp of transient flow, sorption, and transport processes. Although student-facing use begins in 2025–2026, internal testing has confirmed full compatibility, and I have produced draft screencasts and tutorial guides in preparation for launch.
 
@@ -155,6 +159,10 @@ These materials form part of a broader effort to reorient groundwater teaching a
 ***Core Area 1c Case i Evidence***
 
 <a href="/assets/img/MoodleJupyterIntegration.png" target="_blank" style="text-decoration: underline; color: #004080;">-Screenshot: Moodle-Integrated Jupyter Worksheet </a>
+
+<a href="https://gw-inux.github.io/Jupyter-Notebooks/Streamlit/ST_04_03_Groundwater_Movement.html" target="_blank" style="text-decoration: underline; color: #004080;">– Launch Interactive Notebook as Streamlit App: Unconfined Flow to a Well (Thiem) </a>
+
+
 
 
 <a href="https://mybinder.org/v2/gh/gw-inux/Jupyter-Notebooks/HEAD?filepath=04_Basic_hydrogeology/GWF_1D_unconf_analytic_v01.ipynb" 
