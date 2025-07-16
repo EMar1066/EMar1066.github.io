@@ -163,7 +163,7 @@ These materials form part of a broader effort to reorient groundwater teaching a
 <a href="https://gwf-1d-unconf-analytic.streamlit.app/" target="_blank" style="text-decoration: underline; color: #004080;">– Launch Interactive Notebook via Streamlit App: Analytical solution for 1D unconfined flow with two defined head boundaries </a>
 
 
-<a href="https://mybinder.org/v2/gh/gw-inux/Jupyter-Notebooks/HEAD?filepath=04_Basic_hydrogeology/GWF_1D_unconf_analytic_v01.ipynb"
+<a href="https://mybinder.org/v2/gh/gw-inux/Jupyter-Notebooks/HEAD?filepath=04_Basic_hydrogeology/GWF_1D_unconf_analytic_BC3.ipynb"
    target="_blank" 
    rel="noopener" 
    style="text-decoration: underline; color: #004080;">
