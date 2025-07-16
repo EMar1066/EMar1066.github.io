@@ -165,6 +165,14 @@ MAKE EXAMPLES MATCH!!!!
 <a href="https://gwf-1d-unconf-analytic.streamlit.app/" target="_blank" style="text-decoration: underline; color: #004080;">– Launch Interactive Notebook via Streamlit App: Analytical solution for 1D unconfined flow with two defined head boundaries </a>
 
 
+<a href="https://mybinder.org/v2/gh/EMar1066/HydroG-Jupyter-Notebooks/main?urlpath=voila/render/notebooks/04_Basic_hydrogeology/GWF_1D_unconf_analytic_BC3.ipynb" 
+   target="_blank" 
+   rel="noopener" 
+   style="text-decoration: underline; color: #004080;">
+   - Launch Jupyter Slide with Streamjet (Unconfined Aquifer Analytic Solution)
+</a>
+
+
 <a href="https://mybinder.org/v2/gh/gw-inux/Jupyter-Notebooks/HEAD?filepath=04_Basic_hydrogeology/GWF_1D_unconf_analytic_BC3.ipynb"
    target="_blank" 
    rel="noopener" 
