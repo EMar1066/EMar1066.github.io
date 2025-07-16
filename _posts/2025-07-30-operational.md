@@ -160,7 +160,7 @@ These materials form part of a broader effort to reorient groundwater teaching a
 
 <a href="/assets/img/MoodleJupyterIntegration.png" target="_blank" style="text-decoration: underline; color: #004080;">-Screenshot: Moodle-Integrated Jupyter Worksheet </a>
 
-<a href="https://gw-inux.github.io/Jupyter-Notebooks/Streamlit/ST_04_03_Groundwater_Movement.html" target="_blank" style="text-decoration: underline; color: #004080;">– Launch Interactive Notebook as Streamlit App: Unconfined Flow to a Well (Thiem) </a>
+<a href="https://gwf-1d-unconf-analytic.streamlit.app/" target="_blank" style="text-decoration: underline; color: #004080;">– Launch Interactive Notebook as Streamlit App: Unconfined Flow to a Well (Thiem) </a>
 
 
 
