@@ -1,7 +1,7 @@
 paginate: 8
 paginate_path: "/page:num/"
 
-#updated 
+#updated 1
 
 markdown: kramdown
 highlighter: rouge
