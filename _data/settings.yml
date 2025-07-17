@@ -20,7 +20,7 @@ social:
  #  - {icon: 'linkedin', link: 'https://www.linkedin.com/in/ejmartinphd', title: 'LinkedIn'}
  # - {icon: 'dot-circle-o', link: 'https://orcid.org/0009-0005-9135-3382', title: 'ORCID Profile'}
  # - {icon: 'envelope', link: 'mailto:e.martin@greenwich.ac.uk', title: 'Email Eric'}
- # - {icon: 'bug', link: '/404.html', title: 'Definitely not a secret page'}
+ # - {icon: 'bug', link: '/404.md', title: 'Definitely not a secret page'}
 
   - icon: 'file-text'
     link: '/assets/img/CV_EricMartin.pdf'
