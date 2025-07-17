@@ -24,23 +24,23 @@ social:
 
   - icon: 'file-text'
     link: '/assets/img/CV_EricMartin.pdf'
-    title: "Eric's CV"
+    title: 'Eric's CV'
 
   - icon: 'link'
     link: 'https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/eric-martin'
-    title: "University Profile"
+    title: 'University Profile'
     
   - icon: 'linkedin'
     link: 'https://www.linkedin.com/in/ejmartinphd'
-    title: "LinkedIn"
+    title: 'LinkedIn'
 
   - icon: 'dot-circle-o'
     link: 'https://orcid.org/0009-0005-9135-3382'
-    title: "ORCID"
+    title: 'ORCID'
 
   - icon: 'envelope'
     link: 'mailto:e.martin@greenwich.ac.uk'
-    title: "Email Eric"
+    title: 'Email Eric'
 
   - icon: 'bug'
     link: '/404.html'
