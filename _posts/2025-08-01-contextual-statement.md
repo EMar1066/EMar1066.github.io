@@ -33,6 +33,6 @@ I am applying for CMALT because its framework mirrors how I already work: reflec
 
 For nearly two decades, I have used digital tools to design environmental models, build student reasoning, and structure learning that holds up under complexity. CMALT provides a formal way to reflect on that work, benchmark it against national standards, and contribute to a professional community engaged in improving how we teach with technology.
 
-This is not a shift in direction — it is a continuation. My submission aligns with the CMALT principles of reflective practice, operational insight, and inclusive engagement with technology in education. It consolidates work already done and opens the door to deeper collaboration across disciplines and sectors.
+This submission is not a career shift — it is a formal recognition of work already embedded in my teaching. CMALT offers a shared language, a professional standard, and a community of practice that I want to be part of. It provides the structure to articulate my approach more deliberately and the opportunity to contribute meaningfully across disciplinary lines.
 
 ⁂
