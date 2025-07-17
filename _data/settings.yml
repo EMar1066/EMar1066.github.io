@@ -17,7 +17,7 @@ google-ID: 'G-JF4HT1HW8E'
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
 - {icon: 'link', link: 'https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/eric-martin'}
-- {icon: 'linkedin', link: 'www.linkedin.com/in/ejmartinphd'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/ejmartinphd'}
 - {icon: 'dot-circle-o', link: 'https://orcid.org/0009-0005-9135-3382'}
 - {icon: 'envelope', link: 'mailto:e.martin@greenwich.ac.uk'}
 
