@@ -43,7 +43,7 @@ social:
     title: 'Email Eric'
 
   - icon: 'bug'
-    link: '/404.md'
+    link: '/404.html'
     title: 'Definitely not a secret page'
 
 
