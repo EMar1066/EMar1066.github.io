@@ -20,7 +20,7 @@ social:
 - {icon: 'linkedin', link: 'https://www.linkedin.com/in/ejmartinphd'}
 - {icon: 'dot-circle-o', link: 'https://orcid.org/0009-0005-9135-3382'}
 - {icon: 'envelope', link: 'mailto:e.martin@greenwich.ac.uk'}
-- {icon: 'skull', link: '/404.html'}
+- {icon: 'bomb', link: '/404.html'}
 
 # Customize site text
 #pagination:
