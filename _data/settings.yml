@@ -16,11 +16,38 @@ google-ID: 'G-JF4HT1HW8E'
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
- - {icon: 'link', link: 'https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/eric-martin', title: 'University Profile'}
-  - {icon: 'linkedin', link: 'https://www.linkedin.com/in/ejmartinphd', title: 'LinkedIn'}
-  - {icon: 'dot-circle-o', link: 'https://orcid.org/0009-0005-9135-3382', title: 'ORCID Profile'}
-  - {icon: 'envelope', link: 'mailto:e.martin@greenwich.ac.uk', title: 'Email Eric'}
-  - {icon: 'bug', link: '/404.html', title: 'Definitely not a secret page'}
+ # - {icon: 'link', link: 'https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/eric-martin', title: 'University Profile'}
+ #  - {icon: 'linkedin', link: 'https://www.linkedin.com/in/ejmartinphd', title: 'LinkedIn'}
+ # - {icon: 'dot-circle-o', link: 'https://orcid.org/0009-0005-9135-3382', title: 'ORCID Profile'}
+ # - {icon: 'envelope', link: 'mailto:e.martin@greenwich.ac.uk', title: 'Email Eric'}
+ # - {icon: 'bug', link: '/404.html', title: 'Definitely not a secret page'}
+
+  - icon: 'file-text'
+    link: '/assets/docs/CV_EricMartin.pdf'
+    title: 'Eric's CV'
+
+  - icon: 'link'
+    link: 'https://www.gre.ac.uk/people/rep/faculty-of-engineering-and-science/eric-martin'
+    title: 'University Profile'
+
+  - icon: 'linkedin'
+    link: 'https://www.linkedin.com/in/ejmartinphd'
+    title: 'LinkedIn'
+
+  - icon: 'dot-circle-o'
+    link: 'https://orcid.org/0009-0005-9135-3382'
+    title: 'ORCID'
+
+  - icon: 'envelope'
+    link: 'mailto:e.martin@greenwich.ac.uk'
+    title: 'Email Eric'
+
+  - icon: 'bug'
+    link: '/404.html'
+    title: 'Definitely not a secret page'
+
+
+
 
 # Customize site text
 #pagination:
