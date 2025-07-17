@@ -18,7 +18,7 @@
       {% endfor %}
       {% for item in site.data.settings.social %}
         <a href="{{ item.link }}" class="menu-link" target="_blank"
-           {% if item.title %}title="{{ item.title }}"{% endif %}>
+           {% if item.title %}title="TEST TITLE"{% endif %}>
           <i class="fa fa-{{ item.icon }}" aria-hidden="true"></i>
         </a>
       {% endfor %}
