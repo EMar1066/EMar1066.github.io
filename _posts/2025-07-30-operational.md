@@ -16,6 +16,10 @@ image: PunchCardbw.jpg
 </p>
 
 
+**Guide**
+
+* <a href="Core_Area_1_a" target="_blank" style="text-decoration: underline; color: #004080;">Core Area 1a</a>
+
 
 The field of engineering requires adaptablity and rapid uptake of new tools and working environments.
 
@@ -23,7 +27,7 @@ The field of engineering requires adaptablity and rapid uptake of new tools and 
 ## Core Area 1a: Understanding Constraints and Benefits of different technologies
 <h2 id="Core_Area_1"></h2>
 
-<h2 id="Core_Area_1_a"></h2>
+
 
 
 ***Core Area 1a - Case i: PowerPoint vs. Sway vs. Mentimeter***
