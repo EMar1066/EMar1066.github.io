@@ -15,16 +15,23 @@ image: PunchCardbw.jpg
 <em>–Neil Postman </em>
 </p>
 
+The field of engineering requires adaptablity and rapid uptake of new tools and working environments.
+
+
 
 **Guide**
 
-* <a href="#Core_Area_1a">Jump to Core Area 1a</a>
-* <a href="#Core_Area_1b">Jump to Core Area 1b</a>
+* <a href="#Core_Area_1a">Jump to Core Area 1a: Understanding the Constraints and Benefits of Different technologies</a>
+* <a href="#Core_Area_1b">Jump to Core Area 1b: Technical Knowledge and Ability in the use of Learning Technology</a>
+* <a href="#Core_Area_1b">Jump to Core Area 1c Supporting the Deployment of Learning Technologies</a>
 
-The field of engineering requires adaptablity and rapid uptake of new tools and working environments.
+
+
+
+<h2 id="Core_Area_1a"></h2>
 
 ## Core Area 1a: Understanding Constraints and Benefits of different technologies
-<h2 id="Core_Area_1a"></h2>
+
 
 
 
@@ -99,9 +106,10 @@ In selecting and deploying educational software, I’ve found the balance betwee
 
 * Vlachogianni, P. and Tselios, N., 2023. Perceived usability evaluation of educational technology using the post-study system usability questionnaire (PSSUQ): a systematic review. Sustainability, 15(17), p.12954.
 
+<h2 id="Core_Area_1b"></h2>
 
 ## Core Area 1b: Technical Knowledge and Ability in the use of Learning Technology
-<h2 id="Core_Area_1b"></h2>
+
 
 **Core Area 1b Case i: Technological Proficiency**
 
@@ -151,6 +159,8 @@ These are not purely technical decisions; they are pedagogical. The aim is to he
 
 * Laurillard, D., 2013. Teaching as a design science: Building pedagogical patterns for learning and technology. Abingdon: Routledge.
 
+
+<h2 id="Core_Area_1c"></h2>
 
 ## Core Area 1c Supporting the deployment of learning technologies
 
