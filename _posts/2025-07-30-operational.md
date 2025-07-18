@@ -94,7 +94,7 @@ In selecting and deploying educational software, I’ve found the balance betwee
 
 * Cutri, R.M. and Mikkonen, J., 2021. Student perceptions of using Mentimeter as a student response system in higher education. Education and Information Technologies, 26, pp.6557–6573. https://doi.org/10.1007/s10639-021-10589-5
 
-* Dervan, P., 2014. Increasing in-class student engagement using Mentimeter, an interactive presentation software. AISHE-J: The All Ireland Journal of Teaching and Learning in Higher Education, 6(3), pp.1801–1815.
+* Dervan, P., 2014. Increasing in-class student engagement using Mentimeter, an interactive presentation software. AISHE-J: The All Ireland Journal of Teaching and Learning in Higher Education, 6(3), pp.1801–1815. https://doi.org/10.62707/aishej.v6i3.180 
 
 * Kirkwood, A. & Price, L. (2014). Technology-enhanced learning and teaching in higher education: what is ‘enhanced’ and how do we know? A critical literature review. Learning, Media and Technology, 39(1), 6–36.  https://doi.org/10.1080/17439884.2013.770404
 
