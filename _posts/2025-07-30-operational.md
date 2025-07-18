@@ -23,7 +23,7 @@ The field of engineering requires adaptablity and rapid uptake of new tools and 
 
 * <a href="#Core_Area_1a">Jump to Core Area 1a: Understanding the Constraints and Benefits of Different technologies</a>
 * <a href="#Core_Area_1b">Jump to Core Area 1b: Technical Knowledge and Ability in the use of Learning Technology</a>
-* <a href="#Core_Area_1b">Jump to Core Area 1c Supporting the Deployment of Learning Technologies</a>
+* <a href="#Core_Area_1c">Jump to Core Area 1c Supporting the Deployment of Learning Technologies</a>
 
 
 
