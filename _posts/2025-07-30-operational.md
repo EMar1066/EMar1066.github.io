@@ -19,12 +19,12 @@ image: PunchCardbw.jpg
 **Guide**
 
 * <a href="#Core_Area_1">Jump to Core Area 1a</a>
-
+* <a href="Core_Area_1b">Jump to Core Area 1b</a>
 
 The field of engineering requires adaptablity and rapid uptake of new tools and working environments.
 
-## Core Area 1a: Understanding Constraints and Benefits of different technologies {#Core_Area_1a}
-
+## Core Area 1a: Understanding Constraints and Benefits of different technologies
+<h2 id="Core_Area_1a"></h2>
 
 
 
@@ -101,6 +101,7 @@ In selecting and deploying educational software, I’ve found the balance betwee
 
 
 ## Core Area 1b: Technical Knowledge and Ability in the use of Learning Technology
+<h2 id="Core_Area_1b"></h2>
 
 **Core Area 1b Case i: Technological Proficiency**
 
