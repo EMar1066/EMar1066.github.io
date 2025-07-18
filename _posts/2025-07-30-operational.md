@@ -18,8 +18,8 @@ image: PunchCardbw.jpg
 
 **Guide**
 
-* <a href="#Core_Area_1">Jump to Core Area 1a</a>
-* <a href="Core_Area_1b">Jump to Core Area 1b</a>
+* <a href="#Core_Area_1a">Jump to Core Area 1a</a>
+* <a href="#Core_Area_1b">Jump to Core Area 1b</a>
 
 The field of engineering requires adaptablity and rapid uptake of new tools and working environments.
 
