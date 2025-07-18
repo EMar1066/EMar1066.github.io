@@ -23,7 +23,8 @@ image: PunchCardbw.jpg
 
 The field of engineering requires adaptablity and rapid uptake of new tools and working environments.
 
-## <h2 id="Core_Area_1a">Core Area 1a: Understanding Constraints and Benefits of different technologies</h2>
+## Core Area 1a: Understanding Constraints and Benefits of different technologies {#Core_Area_1a}
+
 
 
 
