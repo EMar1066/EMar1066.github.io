@@ -23,9 +23,7 @@ As a facilitator and now PI, I’m responsible for the construction and curation
 This means six months of advance work before the challenge ever begins: identifying datasets, scoping potential research pathways, surveying the current state of the field, and deliberately not prescribing one solution. I study the literature, locate the underexplored edges, and then frame a set of modular, tractable directions that support novelty and collaboration. These aren't toy problems. Each challenge has immediate relevance: national CCS screening, legacy seismic reinterpretation for offshore wind development, or probabilistic modelling of marine oil slicks. But they’re also pedagogical laboratories. They are designed to teach—not through lectures, but through doing.
 
 
-## Specialist Option
-
-***Specialist Option: : Building Technologically-Driven Learning Environments: From Tools to Leadership**
+## Specialist Option: : Building Technologically-Driven Learning Environments: From Tools to Leadership
 
 As facilitator and now Principal Investigator across three Alan Turing Institute Data Study Groups (DSGs), my role has been to design and lead collaborative technical challenges that balance research credibility, educational value, and strategic delivery. These events are not merely hackathons or proof-of-concept sprints; they are structured environments for interdisciplinary learning, problem solving, and real-world application.
 
