@@ -16,7 +16,7 @@ image: Pythonbw.png
 
 ## Preface
 
-This Specialist Option focuses on my current role as Principal Investigator for a national Data Study Group challenge with The Alan Turing Institute and CEFAS. The project focuses on using ML/AI methods to detect oil leaks from shipwrecks using time-series satellite data, is underway, and presents a task that is technical, pedagogical, strategic, and environmental.
+This Specialist Option focuses on my current role as Principal Investigator for a national Data Study Group challenge with The Alan Turing Institute and Cefas. The project focuses on using ML/AI methods to detect oil leaks from shipwrecks using time-series satellite data, is underway, and presents a task that is technical, pedagogical, strategic, and environmental.
 
 I am actively designing the problem space others will enter: Structuring a multi-day rapid prototypinmg challenge for PhD and Postdoctoral participants that is computationally rigorous, open-ended yet coherent, and deeply grounded in physical meaning and impact. The goal is to model oil spills and at the same time, to create an educational framework in which interdisciplinary contributors can learn, build, and reason through complexity.
 
