@@ -16,11 +16,11 @@ image: Pythonbw.png
 
 ## Preface
 
-Each DSG requires the careful balancing of three imperatives: institutional, industrial, and educational. The Alan Turing Institute rightly expects intellectual rigour, clear framing, and technical feasibility. The partner organisation—whether British Geological Survey (BGS) or Cefas—needs useful, exploratory outputs grounded in their domain context. The participants need a project that stretches them, includes them, and allows for meaningful contribution regardless of discipline, seniority, or coding confidence.
+Each DSG requires the careful balancing of three imperatives: institutional, industrial, and educational. The Alan Turing Institute rightly expects intellectual rigour, clear framing, and technical feasibility. The partner organisation, whether British Geological Survey (BGS) or Cefas, needs useful, exploratory outputs grounded in their domain context. The participants need a project that stretches them, includes them, and allows for meaningful contribution regardless of discipline, seniority, or coding confidence.
 
 As a facilitator and now PI, I’m responsible for the construction and curation of this space.
 
-This means six months of advance work before the challenge ever begins: identifying datasets, scoping potential research pathways, surveying the current state of the field, and deliberately not prescribing one solution. I study the literature, locate the underexplored edges, and then frame a set of modular, tractable directions that support novelty and collaboration. These aren't toy problems. Each challenge has immediate relevance: national CCS screening, legacy seismic reinterpretation for offshore wind development, or probabilistic modelling of marine oil slicks. But they’re also pedagogical laboratories. They are designed to teach—not through lectures, but through doing.
+This means six months of advance work before the challenge ever begins: identifying datasets, scoping potential research pathways, surveying the current state of the field, and deliberately not prescribing one solution. I study the literature, locate the underexplored edges, and then frame a set of modular, tractable directions that support novelty and collaboration. These aren't toy problems. Each challenge has immediate relevance: national CCS screening, legacy seismic reinterpretation for offshore wind development, or probabilistic modelling of marine oil slicks. But they’re also pedagogical laboratories. They are designed to teach through collaboration.
 
 
 ## Specialist Option: : Building Technologically-Driven Learning Environments: From Tools to Leadership
@@ -40,7 +40,7 @@ In the January 2025 DSG, I served as co-facilitator on a remote challenge focuse
 
 >(Evidence) Thank you for taking part of this wonderful event! I might invite you in the future if that is okay to share your experience with colleagues. I’d like to encourage more staff to get involved with the Alan Turing Institute.
 
-For the upcoming September 2025 DSG with Cefas, I am leading as Principal Investigator. This involves dataset validation, research scoping, challenge framing, and team design. The topic—detecting oil spills from shipwrecks using SAR time series—has no existing template. I led a six-month literature review to locate research gaps and now provide participants with a scaffolded framework, including distinct methodological tracks (e.g., ConvLSTM, temporal transformers, lightweight segmentation) while keeping the challenge modular and adaptable.
+For the upcoming September 2025 DSG with Cefas, I am leading as Principal Investigator. This involves dataset validation, research scoping, challenge framing, and team design. The topic, detecting oil spills from shipwrecks using SAR time series, has no existing solution template. I led a six-month literature review to locate research gaps and now provide participants with a scaffolded framework, including distinct methodological tracks (e.g., ConvLSTM, temporal transformers, lightweight segmentation) while keeping the challenge modular and adaptable.
 
 > (Evidence) You are very loved by our DSG team, so I do hope this challenge would fit into your area.
 
@@ -61,9 +61,9 @@ At each stage, I provide design leadership: building challenge frameworks that a
 
 Leadership in this context is not instructional but architectural. My influence lies not in directing outcomes but in curating the environment where outcomes become possible. Each DSG requires anticipatory thinking: What dead ends are likely? What skills will participants bring? What will they need on Day 2 when early ideas collapse? The design must account for exploration, missteps, and re-orientation.
 
-I’ve learned that good challenge design thrives on pluralism—providing multiple valid paths rather than one intended solution. Framing must be deliberate but flexible. Participants need just enough structure to proceed confidently, but enough freedom to surprise us. When this balance is struck, something powerful happens: people contribute beyond their discipline, they teach each other, and they produce not just solutions, but insight.
+I’ve learned that good challenge design thrives on pluralism: Providing multiple valid paths rather than one intended solution. Framing must be deliberate but flexible. Participants need just enough structure to proceed confidently, but enough freedom to surprise us. When this balance is struck, something powerful happens: people contribute beyond their discipline, they teach each other, and they produce not just solutions, but insight.
 
-What sets DSGs apart—and what aligns them with my wider educational philosophy—is the combination of urgency and learning. Participants live the project. They struggle, argue, resolve, and build. They leave not with a mark or grade, but with a new capacity for cross-disciplinary work. My leadership makes that possible not through authority, but through design.
+What sets DSGs apart, and what aligns them with my wider educational philosophy, is the combination of urgency and learning. Participants live the project. They struggle, argue, resolve, and build. They leave not with a mark or grade, but with a new capacity for cross-disciplinary work. My leadership makes that possible not through authority, but through design.
 
 Feedback from participants and Turing staff confirms the value of this design-led leadership:
 
