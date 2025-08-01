@@ -5,7 +5,7 @@ date: 2025-07-30
 categories: blog
 image: PunchCardbw.jpg
 ---
-## Preface 
+
 
 <p style="font-size: 1.5em; text-align: center;">
 <em> “Technological change is not additive; it is ecological.”</em>
@@ -16,6 +16,9 @@ image: PunchCardbw.jpg
 </p>
 
 The field of engineering requires adaptablity and rapid uptake of new tools and working environments.
+
+
+
 
 
 
@@ -30,6 +33,8 @@ The field of engineering requires adaptablity and rapid uptake of new tools and 
 
 <h2 id="Core_Area_1a"></h2>
 
+## Core Area 1a Preface 
+
 ## Core Area 1a: Understanding Constraints and Benefits of different technologies
 
 
@@ -37,29 +42,15 @@ The field of engineering requires adaptablity and rapid uptake of new tools and 
 
 ***Core Area 1a - Case i: PowerPoint vs. Sway vs. Mentimeter***
 
-I began teaching in the early 2010s and started leading modules from 2017. My teaching methods have evolved with the tools available. PowerPoint has remained a staple for lecture delivery, supplemented selectively by other tools depending on pedagogical need. My lectures often involve animated diagrams, flowline sequences, and real-time annotation to highlight fluid behaviours or trace conceptual relationships. This visual and spatial interactivity, paired with verbal walkthroughs and guided note-taking, is central to how I scaffold complex engineering content.
-
-Mentimeter’s standout feature is its polling function, which I use selectively to run in-lecture quizzes and diagnostic questions. These can be useful for pacing, gauging understanding, or inviting participation in large groups. But the platform fails when used beyond that narrow scope. It lacks animation, inline editing, and visual pacing control, but more seriously, it is structurally inaccessible. Slides are rendered as images with no alternative text. Screen readers cannot parse question content or student responses. Keyboard navigation is restricted. The platform assumes full visual and motor access, excluding disabled students by default. For this reason, I use Mentimeter only for standalone polls, Alt+Tabbing to it when useful and returning immediately to PowerPoint, which supports layered, accessible, and pedagogically aligned delivery. 
+In my large-group engineering lectures, I use PowerPoint as my primary delivery platform due to its control over sequencing, animation, and on-the-fly annotation. These features are essential for communicating spatial or time-dependent processes in fluid mechanics and contaminant transport. I structure content around staged visual builds and prompt note-taking, which allows students to follow complex derivations or flow behaviours with clarity. When I need a quick check of student understanding, I use Mentimeter for single-question polls or live diagnostics. However, it has clear limitations. Unlike PowerPoint, it lacks animation, inline editing, and visual control. More critically, it fails accessibility standards: slides render as images without alt text, requires all students to have a mobile device and navigation for screen readers or keyboard-only users is restricted. Because of these constraints, I use Mentimeter only in brief, standalone instances and return immediately to PowerPoint, which offers a more coherent and inclusive experience for structured delivery.
 
 ***Core Area 1a - Case ii: : Moodle vs. D2l vs. Canvas***
 
-I have worked extensively with Moodle, D2L (Desire2Learn), and Canvas across different institutions, and each has presented its own strengths and limitations. I first encountered Moodle in its early days, and while its modular design allowed for flexibility, it often required manual structuring and lacked polish in interface design. D2L offered more consistency in navigation and grading tools, particularly for scaffolded assessment structures, but tended to be inflexible when trying to embed external content or apply complex workflows. Canvas, by contrast, felt modern and lightweight, with cleaner integration of multimedia, straightforward assignment creation, and better cross-platform accessibility. However, it could feel restrictive when customisation was needed or when managing large numbers of files and resources.
+Through institutions I have taught at, I've use Moodle, D2L (Desire2Learn), and Canvas, all of which were institutionally selected as primary learning platforms. Each presented distinct trade-offs in usability, structure, and customisation. Moodle’s modular design supports flexibility, but its interface remains cluttered and many core features, such as assignment feedback, gradebook configuration, and resource upload, require multiple configuration steps. D2L offers a more consistent experience for structured assessments and navigation but is less flexible when embedding external content or building non-linear workflows. Canvas is streamlined, with cleaner multimedia integration and simplified assignment creation, but becomes restrictive when handling large resource libraries or custom layouts. In my current role I use Moodle, and have adapted it to reduce cognitive load by implementing collapsible topic sections, labelled resource flows, and embedded tools such as Jupyter Notebooks. These adaptations help offset structural clutter and guide students clearly through weekly materials. Each platform requires workarounds, but familiarity with their affordances has allowed me to design around limitations and maintain course coherence.
 
-Returning to Moodle in my current role has meant revisiting a platform that, while widely adopted, still carries some of its earlier inefficiencies. Navigation can feel fragmented, and many features (such as assignment feedback and gradebook tools) require multiple layers of configuration to work as intended. Despite this, I have structured my Moodle pages carefully to reduce cognitive load, using collapsible sections, visual flowcharts, and labelled downloads to guide students through each week’s materials. I also supplement Moodle’s limitations by embedding interactive tools like <a href="https://jupyter.org/" target="_blank" style="text-decoration: underline; color: #004080;">Jupyter Notebooks</a>. While no platform has offered a perfect solution, my experience across systems has allowed me to identify what is worth customising and what requires workarounds. The goal remains the same: to ensure that the learning environment supports clarity, progression, and meaningful engagement with the course content.
+***Core Area 1a - Case iii: Analytical and Numerical Tools***
 
-
-
-
-
-***Core Area 1a - Case iii: Numerical and Analytical Solvers***
-
-Engineering is a science of data. Every value we calculate is an estimate, with uncertainty built in. To support students in applying analytical and numerical theory, I use a range of tools: Primarily Excel,  <a href="https://orangedatamining.com/" target="_blank" style="text-decoration: underline; color: #004080;">Orange</a>, and Python, selected according to task complexity and student experience.
-
-For my current students, Excel is the most immediately accessible (in the past it has been  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" style="text-decoration: underline; color: #004080;">MATLAB</a>). I use it to introduce finite difference models, stochastic processes, and parameter-driven simulations using cell-based logic. Its low barrier to entry makes it ideal for early undergraduates who are learning to visualise theory rather than build software. However, Excel’s scalability is limited, and it becomes inefficient for high-dimensional or data-heavy work.
-
-For MSc students that I mentor who are less comfortable with coding, I use  <a href="https://orangedatamining.com/" target="_blank" style="text-decoration: underline; color: #004080;">Orange</a>. This GUI-based machine learning environment allows students to build classification or regression pipelines, adjust model parameters, and visualise outputs without writing code. It helps bridge the gap between abstract concepts and practical workflows. While not customisable enough for research use, it works well as an educational stepping stone.
-
-For graduate students with stronger technical ability, I shift to Python. It offers full control, rich numerical libraries (NumPy, SciPy, Scikit-learn), and flexibility for modelling and data analysis. I use it to teach finite difference methods, environmental simulations, and machine learning pipelines for µCT and time-series datasets. To support learners new to coding, I provide scaffolded notebooks with commented code, embedded visuals, and real-world data. This structure allows students to engage with the tools at a depth that suits their confidence and background.
+Engineering sits at the intersection of science and technology and is inherently dependent on data-driven modelling. To support students in applying numerical and analytical theory, I use a sequence of platforms tailored to their technical background and the complexity of the task. Excel provides an accessible entry point for early undergraduates to build finite difference models, run parameter-driven simulations, and explore system sensitivity using cell-based logic. It is ideal for conceptual grounding, though limited in handling high-dimensional or computationally intensive tasks. For MSc students less familiar with coding, I use Orange, a GUI-based machine learning environment that enables pipeline construction and parameter adjustment through visual blocks. It offers a low barrier to entry but lacks the flexibility needed for research-level work. For advanced students, I use Python with scaffolded notebooks and real datasets to build simulations and machine learning pipelines. These tools are powerful and adaptable, but carry a steeper learning curve and demand more prerequisite knowledge. Each platform brings trade-offs in control, accessibility, and scalability. I select and sequence them deliberately to match student readiness and learning goals.
 
 
 
