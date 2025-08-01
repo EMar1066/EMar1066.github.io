@@ -117,15 +117,15 @@ Alongside this technical experience, I bring a background in design and editoria
 
 ***Core Area 1b Reflections***
 
-My relationship with technology began long before teaching. I was ten when I started coding on an Apple IIe. By thirteen, I was learning BASIC at summer camp. In high school, the focus shifted to HTML and object-oriented programming. When I began teaching in Canada, years before my PhD, I was already using code to solve problems, explain concepts, and build structures that made sense to others. That habit has remained. What’s changed is the precision of the tools.
+My relationship with learning technology predates my teaching. I started coding on an Apple IIe at ten, moved to BASIC and HTML in my teens, and was already using code to explain ideas when I began teaching in Canada, years before my PhD. That early habit persists. What has changed is the scale and precision of the tools: I now build environments that visualise, simulate, and guide learning in ways once out of reach.
 
-Like a carpenter with access to power tools, I’ve expanded what I can build. But the skill is in the joins. Technology allows me to plan more clearly, structure more tightly, and shape how learning unfolds. Whether I’m constructing a simulation workflow or a scaffolded spreadsheet, the aim is the same: build environments that hold together. As Laurillard (2012) argues, technology in teaching must be a matter of deliberate design, tools used to shape conceptual progress.
+Like a carpenter with access to power tools, I’ve expanded what I can build, but like carpentry, the skill is in the joins. Technology lets me plan more clearly, structure more tightly, and shape how learning unfolds. Whether I’m constructing a simulation workflow or a scaffolded spreadsheet, the goal is the same: to build environments that hold together. As Laurillard (2012) notes, effective technology use demands deliberate design. I believe that tools should shape conceptual progress.
 
-This principle guides my choices. Some students co-develop machine learning models with me. Others use spreadsheet environments to explore systems and test assumptions. Biggs and Tang (2011) emphasise that method must align with outcome. Beetham and Sharpe (2007) remind us that digital platforms gain value only through pedagogical purpose.
+This principle shapes how I teach. Some students co-develop machine learning models with me; others work in spreadsheet environments to test system dynamics and explore assumptions. Biggs and Tang (2011) argue that methods must align with learning outcomes, and Beetham and Sharpe (2007) remind us that platforms only gain value when guided by clear pedagogical purpose.
 
-Structure matters. Kirschner, Sweller, and Clark (2006) show that students benefit most from guided, well-sequenced instruction. A polished tool doesn’t teach on its own. A scaffolded, logical progression does. I’ve seen students learn more from a notebook that builds one idea at a time than from a fast-paced lecture filled with features.
+Structure matters. Kirschner, Sweller, and Clark (2006) show that students benefit most from guided, well-sequenced instruction. A polished tool doesn’t teach on its own—a scaffolded, logical progression does. I’ve seen students learn more from a notebook that builds one idea at a time than from a feature-heavy lecture that overwhelms without clarity.
 
-These are not purely technical decisions; they are pedagogical. The aim is to help students build something meaningful, whether it’s a model or an idea that holds under pressure.
+These are not purely technical decisions; they are pedagogical. The aim is to help students build something meaningful, whether it’s a model or an idea that holds under scrutiny.
 
 ***Core Area 1b References***
 
