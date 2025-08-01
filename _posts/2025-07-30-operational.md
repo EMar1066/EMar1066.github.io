@@ -51,11 +51,8 @@ Through institutions I have taught at, I've use Moodle, D2L (Desire2Learn), and 
 
 Engineering sits at the intersection of science and technology and is inherently dependent on data-driven modelling. To support students in applying numerical and analytical theory, I use a sequence of platforms tailored to their technical background and the complexity of the task. Excel provides an accessible entry point for early undergraduates to build finite difference models, run parameter-driven simulations, and explore system sensitivity using cell-based logic. It is ideal for conceptual grounding, though limited in handling high-dimensional or computationally intensive tasks. For MSc students less familiar with coding, I use Orange, a GUI-based machine learning environment that enables pipeline construction and parameter adjustment through visual blocks. It offers a low barrier to entry but lacks the flexibility needed for research-level work. For advanced students, I use Python with scaffolded notebooks and real datasets to build simulations and machine learning pipelines. These tools are powerful and adaptable, but carry a steeper learning curve and demand more prerequisite knowledge. Each platform brings trade-offs in control, accessibility, and scalability. I select and sequence them deliberately to match student readiness and learning goals.
 
-
-
-
-
 ***Evidence***
+
 -Moodle shell screenshot
 
 -Assignment Ogata Banks
@@ -96,20 +93,15 @@ This challenge becomes clearest in technical teaching. In engineering, a tool th
 
 ## Core Area 1b: Technical Knowledge and Ability in the use of Learning Technology
 
+My technical proficiency has developed over more than two decades of applied work in research, regulation, and higher education. I have no formal certifications in learning technology, nor do I seek them. My fluency has grown through necessity: modelling groundwater transport, supervising MScs in environmental machine learning, building simulation pipelines, and supporting student research. These skills are not peripheral. They underpin my teaching, enable my supervision, and have led to external roles where technical depth is essential. As Principal Investigator for a national research sprint with The Alan Turing Institute, I was selected on the strength of my applied programming, data science, and collaborative leadership. Their requirements form part of my evidence for this section.
 
-**Core Area 1b Case i: Technological Proficiency**
+My work spans Python, Julia, MATLAB, Maple, Visual Basic, FORTRAN, C++, SQL, HTML, and other environments, deployed across both Windows and Linux systems. I use GitHub for version control, Jupyter for interactive teaching and research, and tools such as TauFactor, PoreSpy, and Palabos for pore-network and flow modelling. These are not extracurricular tools—they are embedded in my teaching, research, and student supervision.
 
-While completing concurrent undergraduate degrees in Chemical Engineering and Comparative English Literature, I spent five years as a staff writer, artist and editor for a university newspaper. That parallel training continues to inform my approach to technical work. I try to prioritise clarity, structure, and communicative precision wherever possible when writing simulation code, designing a notebook, or building instructional materials. Tools are never just functional; they are rhetorical. How they present information matters as much as what they compute.
+In undergraduate teaching, I design scaffolded Python and Excel environments that let students explore real datasets and environmental models. These include pre-built notebooks for Mann–Kendall trend detection, time-series exploration, and finite difference simulations. At MSc level, I support more complex work. One recent project involved permeability estimation from µCT image data using random forests, supported through shared GitHub repositories and Python-based workflows. I have also supervised MSc projects on environmental classifiers and advised students adapting code for industry.
 
-Over two decades in research, regulation, and teaching, I have developed fluency across a range of technical environments. My work spans Python, Julia,  <a href="https://www.mathworks.com/products/matlab.html" target="_blank" style="text-decoration: underline; color: #004080;">MATLAB</a>, <a href="https://www.maplesoft.com/products/maple/index.aspx" target="_blank" style="text-decoration: underline; color: #004080;">Maple</a>, Visual Basic, FORTRAN, C++, SQL, HTML, and others, deployed across Windows and Linux systems. I use GitHub for version control, Jupyter for interactive analysis, and tools such as TauFactor, PoreSpy, and Palabos for pore-network and flow modelling run within sandboxed virtual environments.
+Beyond the classroom, I lead national-scale technical projects for the Alan Turing Institute. These have included segmentation of thin-section geological imagery, OCR of seismic scans, and time-series detection of oil spills in SAR data. These projects are team-based, time-limited, and high-stakes. They demand fast deployment of robust pipelines, clear technical communication, and support for researchers from diverse disciplinary backgrounds.
 
-My technical scope includes numerical simulation, image and time-series analysis, and machine learning pipelines. I have written simulation code for groundwater transport, trained neural networks for geospatial classification, and developed visualisations to support both teaching and research. I also have a formal background in design and editorial work, which continues to shape how I structure learning materials: Building coherent, visual explanations that support conceptual development across complex topics.
-
-In undergraduate teaching, I design Python- and Excel-based environments that allow students to engage with environmental datasets and models. These include pre-built notebooks for time-series exploration, Mann–Kendall trend detection, and parameter sweeps on finite difference models. Tools are scaffolded to student level, balancing technical depth with accessibility.
-
-At MSc level, I co-develop classification and modelling pipelines with students. One current project involves permeability estimation from µCT image data using random forests, supported through shared GitHub repositories and Python-based simulation workflows. I have also supervised MSc work on environmental classifiers and advised students adapting their research code for industry.
-
-Beyond the classroom, I serve as Principal Investigator and technical lead for national data challenges hosted by The Alan Turing Institute. I have facilitated or led three Data Study Group projects, including segmentation of thin-section geological images, OCR of seismic scans, and time-series detection of oil spills in SAR data. These roles require fast, effective pipeline deployment, interdisciplinary team support, and high-level technical judgement under short timelines.
+Alongside this technical experience, I bring a background in design and editorial work. During my undergraduate studies in Chemical Engineering and Comparative Literature, I worked for five years as a newspaper editor and illustrator. That parallel training continues to inform how I present information, whether through a visual model, a coded interface, or a written explanation. Tools are not just functional; they are rhetorical. How they present information matters as much as what they compute.
 
 ***Core Area 1b Evidence***
 
