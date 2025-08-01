@@ -123,7 +123,7 @@ Like a carpenter with access to power tools, I’ve expanded what I can build, b
 
 This principle shapes how I teach. Some students co-develop machine learning models with me; others work in spreadsheet environments to test system dynamics and explore assumptions. Biggs and Tang (2011) argue that methods must align with learning outcomes, and Beetham and Sharpe (2007) remind us that platforms only gain value when guided by clear pedagogical purpose.
 
-Structure matters. Kirschner, Sweller, and Clark (2006) show that students benefit most from guided, well-sequenced instruction. A polished tool doesn’t teach on its own—a scaffolded, logical progression does. I’ve seen students learn more from a notebook that builds one idea at a time than from a feature-heavy lecture that overwhelms without clarity.
+Structure matters. Kirschner, Sweller, and Clark (2006) show that students benefit most from guided, well-sequenced instruction. A polished tool doesn’t teach on its own: A scaffolded, logical progression does. I’ve seen students learn more from a notebook that builds one idea at a time than from a feature-heavy lecture that overwhelms without clarity.
 
 These are not purely technical decisions; they are pedagogical. The aim is to help students build something meaningful, whether it’s a model or an idea that holds under scrutiny.
 
