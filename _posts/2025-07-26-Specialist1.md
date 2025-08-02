@@ -59,7 +59,7 @@ At each stage, I provide design leadership: building challenge frameworks that a
 
 **Specialist Option Reflection**
 
-Leadership in this context is not instructional but architectural. My influence lies not in directing outcomes but in curating the environment where outcomes become possible. Each DSG requires anticipatory thinking: What dead ends are likely? What skills will participants bring? What will they need on Day 2 when early ideas collapse? The design must account for exploration, missteps, and re-orientation.
+Leadership in this context is architectural as well as instructional. My influence primarily lies in curating the environment where outcomes become possible. Each DSG requires anticipatory thinking: What dead ends are likely? What skills will participants bring? What will they need on Day 2 when early ideas collapse? The design must account for exploration, missteps, and re-orientation.
 
 I’ve learned that good challenge design thrives on pluralism: Providing multiple valid paths rather than one intended solution. Framing must be deliberate but flexible. Participants need just enough structure to proceed confidently, but enough freedom to surprise us. When this balance is struck, something powerful happens: people contribute beyond their discipline, they teach each other, and they produce not just solutions, but insight.
 
