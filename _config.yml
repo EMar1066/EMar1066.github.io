@@ -6,6 +6,8 @@ highlighter: rouge
 permalink: /:categories/:year/:month/:day/:title/
 
 
+
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
