@@ -70,15 +70,3 @@ Feedback from participants and Turing staff confirms the value of this design-le
 The influence of these DSG experiences is not confined to research challenges. I have translated these methods and insights directly into my teaching and graduate supervision. My MSc students now regularly work in collaborative GitHub environments, engaging with real-world datasets and exploratory pipelines in environmental modelling. I build modular scaffolds that allow them to explore, adapt, and contribute—not unlike DSG participants.
 
 Moreover, I structure student projects with the same attention to resilience, pluralism, and feedback loops. My postgraduate mentorship echoes the DSG ethos: task design that rewards iteration, encourages interdisciplinary curiosity, and sustains momentum through thoughtful framing. DSGs have sharpened not just my technical fluency but my pedagogical clarity. They have made me a better architect of learning.
-
-
-
-
-
-
-
-https://youtu.be/o1HZy9WeIss
-
-https://youtu.be/W7I3EC9gX9Y
-
-https://youtu.be/XkVziGKlKwo
