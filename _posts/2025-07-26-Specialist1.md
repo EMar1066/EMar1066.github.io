@@ -50,11 +50,11 @@ At each stage, I provide design leadership: building challenge frameworks that a
 
 **Specialist Option Evidence**
 
-<a href="https://youtu.be/o1HZy9WeIss" target="_blank" rel="noopener noreferrer">-(Evidence) Turing DSG – A Week in the Life Part 1</a><br>
+<a href="https://youtu.be/o1HZy9WeIss" target="_blank" rel="noopener noreferrer">(Evidence) Turing DSG – A Week in the Life Part 1</a><br>
 
-<a href="https://youtu.be/W7I3EC9gX9Y" target="_blank" rel="noopener noreferrer">-(Evidence) Turing DSG – A Week in the Life Part 2</a><br>
+<a href="https://youtu.be/W7I3EC9gX9Y" target="_blank" rel="noopener noreferrer">(Evidence) Turing DSG – A Week in the Life Part 2</a><br>
 
-<a href="https://youtu.be/XkVziGKlKwo" target="_blank" rel="noopener noreferrer">-(Evidence) Turing DSG – A Week in the Life Part 3</a>
+<a href="https://youtu.be/XkVziGKlKwo" target="_blank" rel="noopener noreferrer">(Evidence) Turing DSG – A Week in the Life Part 3</a>
 
 
 **Specialist Option Reflection**
