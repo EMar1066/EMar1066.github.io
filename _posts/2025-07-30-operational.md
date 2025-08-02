@@ -55,10 +55,6 @@ Engineering sits at the intersection of science and technology and is inherently
 
 -Moodle shell screenshot
 
--Assignment Ogata Banks
-
--Solution to Ogata Banks
-
 -Old PP vs. New?
 
 ***Core Area 1a Reflections***
