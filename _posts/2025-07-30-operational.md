@@ -55,7 +55,7 @@ Engineering sits at the intersection of science and technology and is inherently
 
 <a href="/assets/img/MSc_GUI_examples.jpg" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence XX)</a>. 
 
-They offer a low barrier to entry but lack the flexibility needed for research-level work. For advanced students, I use Python with scaffolded notebooks and real datasets to build simulations and machine learning pipelines <a href="/assets/img/MSc_AI_Slices.jpg" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence XX)</a>. These tools are powerful and adaptable, but carry a steeper learning curve and demand more prerequisite knowledge. Each platform brings trade-offs in control, accessibility, and scalability. I select and sequence them deliberately to match student readiness and learning goals.
+They offer a low barrier to entry but lack the flexibility needed for research-level work. For advanced students, I use Python with scaffolded notebooks and real datasets to build simulations and machine learning pipelines <a href="/assets/img/msc_ai_slices.png" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence XX)</a>. These tools are powerful and adaptable, but carry a steeper learning curve and demand more prerequisite knowledge. Each platform brings trade-offs in control, accessibility, and scalability. I select and sequence them deliberately to match student readiness and learning goals.
 
 ***Evidence***
 
