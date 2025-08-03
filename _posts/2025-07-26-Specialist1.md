@@ -16,11 +16,11 @@ image: Pythonbw.png
 
 ## Preface
 
-Each DSG requires the careful balancing of three imperatives: institutional, industrial, and educational. The Alan Turing Institute rightly expects intellectual rigour, clear framing, and technical feasibility. The partner organisation, whether British Geological Survey (BGS) or Cefas, needs useful, exploratory outputs grounded in their domain context. The participants need a project that stretches them, includes them, and allows for meaningful contribution regardless of discipline, seniority, or coding confidence.
+This section outlines my role as facilitator and Principal Investigator across three Data Study Groups (DSGs) run by The Alan Turing Institute. These events bring researchers and practitioners together around live technical challenges posed by partner organisations. My responsibilities include early-stage design, technical framing, and leadership during the sprint itself.
 
-As a facilitator and now PI, I’m responsible for the construction and curation of this space.
+The work is interdisciplinary and applied. Each challenge must be scoped to ensure methodological relevance, tractable research directions, and space for meaningful contribution. Partner organisations must gain insight. Participants must be able to engage, regardless of background. This requires careful planning, critical review of the field, and the construction of a collaborative environment that rewards clarity, reasoning, and intellectual risk.
 
-This means six months of advance work before the challenge ever begins: identifying datasets, scoping potential research pathways, surveying the current state of the field, and deliberately not prescribing one solution. I study the literature, locate the underexplored edges, and then frame a set of modular, tractable directions that support novelty and collaboration. These aren't toy problems. Each challenge has immediate relevance: national CCS screening, legacy seismic reinterpretation for offshore wind development, or probabilistic modelling of marine oil slicks. But they’re also pedagogical laboratories. They are designed to teach through collaboration.
+This work is both technical and pedagogical. DSGs are designed to produce applied research outputs, but they also function as learning environments. They support skill development, shared vocabulary, and confidence across levels of experience. The following section reflects on this work, and its relationship to my wider teaching and research practice.
 
 
 ## Specialist Option: Building Technologically-Driven Learning Environments: From Tools to Leadership
@@ -61,7 +61,7 @@ At each stage, I provide design leadership: building challenge frameworks that a
 
 Leadership in this context is architectural as well as instructional. My influence primarily lies in curating the environment where outcomes become possible. Each DSG requires anticipatory thinking: What dead ends are likely? What skills will participants bring? What will they need on Day 2 when early ideas collapse? The design must account for exploration, missteps, and re-orientation.
 
-I’ve learned that good challenge design thrives on pluralism: Providing multiple valid paths rather than one intended solution. Framing must be deliberate but flexible. Participants need just enough structure to proceed confidently, but enough freedom to surprise us. When this balance is struck, something powerful happens: people contribute beyond their discipline, they teach each other, and they produce not just solutions, but insight.
+I’ve learned that good challenge design thrives on pluralism: Providing multiple valid paths rather than one intended solution. Framing must be deliberate but flexible. Participants need just enough structure to proceed confidently, but enough freedom to surprise us. When this balance is struck, something powerful happens: people contribute beyond their discipline, they teach each other, and they produce both solutions and academic insight.
 
 What sets DSGs apart, and what aligns them with my wider educational philosophy, is the combination of urgency and learning. Participants live the project. They struggle, argue, resolve, and build. They leave not with a mark or grade, but with a new capacity for cross-disciplinary work. My leadership makes that possible not through authority, but through design.
 
