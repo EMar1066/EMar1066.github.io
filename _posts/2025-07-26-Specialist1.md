@@ -23,38 +23,38 @@ As a facilitator and now PI, I’m responsible for the construction and curation
 This means six months of advance work before the challenge ever begins: identifying datasets, scoping potential research pathways, surveying the current state of the field, and deliberately not prescribing one solution. I study the literature, locate the underexplored edges, and then frame a set of modular, tractable directions that support novelty and collaboration. These aren't toy problems. Each challenge has immediate relevance: national CCS screening, legacy seismic reinterpretation for offshore wind development, or probabilistic modelling of marine oil slicks. But they’re also pedagogical laboratories. They are designed to teach through collaboration.
 
 
-## Specialist Option: : Building Technologically-Driven Learning Environments: From Tools to Leadership
+## Specialist Option: Building Technologically-Driven Learning Environments: From Tools to Leadership
 
 As facilitator and now Principal Investigator across three Alan Turing Institute Data Study Groups (DSGs), my role has been to design and lead collaborative technical challenges that balance research credibility, educational value, and strategic delivery. These events are not merely hackathons or proof-of-concept sprints; they are structured environments for interdisciplinary learning, problem solving, and real-world application.
 
 In the September 2024 DSG with the British Geological Survey (BGS), I facilitated a team working on carbonate reservoir screening for carbon capture and storage. The dataset consisted of petrographic thin-sections, and I helped shape the project scope, advised on suitable deep learning architectures (e.g. U-Net for segmentation), and ensured the team’s approach remained relevant to national storage needs. I also helped steer group dynamics, encouraged equitable task division, and provided technical mentoring across coding, mineralogical interpretation, and feature engineering.
 
 
-> (Evidence) I can tell you are already bringing a lot of value to the challenge.
+> (Evidence 1) I can tell you are already bringing a lot of value to the challenge.
 
 
->(Evidence) It was great meeting you and working with you. I just saw your message on slack and wanted to thank you for your kind words and your input. You helped us a lot by kickstarting the project and making sure the team was cohesive in working until we found our footing and got to know each other.
+>(Evidence 2) It was great meeting you and working with you. I just saw your message on slack and wanted to thank you for your kind words and your input. You helped us a lot by kickstarting the project and making sure the team was cohesive in working until we found our footing and got to know each other.
 
 
 In the January 2025 DSG, I served as co-facilitator on a remote challenge focused on legacy seismic scan interpretation. My design contribution included developing a pre-processing workflow for structure-preserving enhancement and designing a hybrid object detection and segmentation pipeline. The challenge had high uncertainty and weak labels. My leadership focus was not only on the technical pipeline but also on managing ambiguity, distributing cognitive load, and maintaining morale in a time-zoned, virtual team.
 
->(Evidence) Thank you for taking part of this wonderful event! I might invite you in the future if that is okay to share your experience with colleagues. I’d like to encourage more staff to get involved with the Alan Turing Institute.
+>(Evidence 3) Thank you for taking part of this wonderful event! I might invite you in the future if that is okay to share your experience with colleagues. I’d like to encourage more staff to get involved with the Alan Turing Institute.
 
 For the upcoming September 2025 DSG with Cefas, I am leading as Principal Investigator. This involves dataset validation, research scoping, challenge framing, and team design. The topic, detecting oil spills from shipwrecks using SAR time series, has no existing solution template. I led a six-month literature review to locate research gaps and now provide participants with a scaffolded framework, including distinct methodological tracks (e.g., ConvLSTM, temporal transformers, lightweight segmentation) while keeping the challenge modular and adaptable.
 
-> (Evidence) You are very loved by our DSG team, so I do hope this challenge would fit into your area.
+> (Evidence 4) You are very loved by our DSG team, so I do hope this challenge would fit into your area.
 
-> (Evidence) I admired your work ethic and how you approached the challenge. The whole DSG was a learning experience in which you contributed a lot. Thank you, hope our paths cross again as well. Best of luck in the new academic year!
+> (Evidence 5) I admired your work ethic and how you approached the challenge. The whole DSG was a learning experience in which you contributed a lot. Thank you, hope our paths cross again as well. Best of luck in the new academic year!
 
 At each stage, I provide design leadership: building challenge frameworks that are technically open, yet pedagogically scaffolded; curating interdisciplinary cohesion; and ensuring each DSG serves the research partner, the Institute, and the participants equally.
 
 **Specialist Option Evidence**
 
-<a href="https://youtu.be/o1HZy9WeIss" target="_blank" rel="noopener noreferrer">(Evidence) Turing DSG – A Week in the Life Part 1</a><br>
+<a href="https://youtu.be/o1HZy9WeIss" target="_blank" rel="noopener noreferrer">(Evidence 6) Turing DSG – A Week in the Life Part 1</a><br>
 
-<a href="https://youtu.be/W7I3EC9gX9Y" target="_blank" rel="noopener noreferrer">(Evidence) Turing DSG – A Week in the Life Part 2</a><br>
+<a href="https://youtu.be/W7I3EC9gX9Y" target="_blank" rel="noopener noreferrer">(Evidence 7) Turing DSG – A Week in the Life Part 2</a><br>
 
-<a href="https://youtu.be/XkVziGKlKwo" target="_blank" rel="noopener noreferrer">(Evidence) Turing DSG – A Week in the Life Part 3</a>
+<a href="https://youtu.be/XkVziGKlKwo" target="_blank" rel="noopener noreferrer">(Evidence 8) Turing DSG – A Week in the Life Part 3</a>
 
 
 **Specialist Option Reflection**
