@@ -52,6 +52,7 @@ Through institutions I have taught at, I've use Moodle, D2L (Desire2Learn), and 
 Engineering sits at the intersection of science and technology and is inherently dependent on data-driven modelling. To support students in applying numerical and analytical theory, I use a sequence of platforms tailored to their technical background and the complexity of the task. Excel provides an accessible entry point <a href="/assets/img/ENVI1195CMALTPOST.pdf" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence XX)</a> for students to build finite difference models, run parameter-driven simulations, and explore system sensitivity using cell-based logic. It is ideal for conceptual grounding, though limited in handling high-dimensional or computationally intensive tasks. For MSc students less familiar with coding, I use Orange, AutoML or XLMiner, GUI-based machine learning environments that enables pipeline construction and parameter adjustment through visual interfaces <a href="/assets/img/msc_gui_examples.png" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence XX)</a>. They offer a low barrier to entry but lack the flexibility needed for research-level work. For advanced students, I use Python with scaffolded notebooks and real datasets to build simulations and machine learning pipelines <a href="/assets/img/msc_ai_slices.png" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence XX)</a>. These tools are powerful and adaptable, but carry a steeper learning curve and demand more prerequisite knowledge. Each platform brings trade-offs in control, accessibility, and scalability. I select and sequence them deliberately to match student readiness and learning goals.
 
 ***Evidence***
+-Is more needed?
 
 -Moodle shell screenshot ???
 
@@ -103,10 +104,11 @@ Alongside this technical experience, I bring a background in design and editoria
 
 ***Core Area 1b Evidence***
 
-<a href="/assets/img/DSG_PI_Criteria.pdf" target="_blank" style="text-decoration: underline; color: #004080;">-Requirements (including techonogical ability) for Primary Investigator Position at The Alan Turing Institute as Affirmation of Skillset</a>
+<a href="/assets/img/DSG_PI_Criteria.pdf" target="_blank" style="text-decoration: underline; color: #004080;"> (Evidence xx) Acceptnace Requirements (including techonogical ability) for Primary Investigator Position at The Alan Turing Institute as Affirmation of Skillset</a>
 
-<a href="/assets/img/representativecode.jpg" target="_blank" style="text-decoration: underline; color: #004080;">-Representative Code Snippet for Rock Flow Properties Analysis (MSc mentorship project)</a>
+<a href="/assets/img/representativecode.jpg" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence xx) Representative Code Snippet for Rock Flow Properties Analysis (MSc mentorship project)</a>
 
+-Should more evidence be supplied?
 
 -Code Snippet for long term analysis with seasonal variation
 -Code Snippet for nc file slicing
@@ -154,22 +156,22 @@ This deployment forms part of a broader push within my teaching to support open-
 
 ***Core Area 1c Case i Evidence***
 
-<a href="/assets/img/MoodleJupyterIntegration.png" target="_blank" style="text-decoration: underline; color: #004080;">-(Evidence) Screenshot: Moodle-Integrated Jupyter Worksheet Links as Deployed </a>
+<a href="/assets/img/MoodleJupyterIntegration.png" target="_blank" style="text-decoration: underline; color: #004080;">-(Evidence xx) Screenshot: Moodle-Integrated Jupyter Worksheet Links as Deployed </a>
 
 <a href="https://mybinder.org/v2/gh/EMar1066/HydroG-Jupyter-Notebooks/HEAD?filepath=04_Basic_hydrogeology/GWF_1D_unconf_analytic_BC3.ipynb"
    target="_blank" 
    rel="noopener" 
    style="text-decoration: underline; color: #004080;">
-(Evidence) Launch Interactive Notebook via Binder: Analytical solution for 1D unconfined flow with two defined head boundaries
+(Evidence xx) Launch Interactive Notebook via Binder: Analytical solution for 1D unconfined flow with two defined head boundaries
 </a> (Useful for demonstrating or modifying coded solutions to presented theory, but code must be run by 'view'->'collapse all cells' then 'run'->'run all cells')
 
 
-<a href="https://gwf-1d-unconf-analytic.streamlit.app/" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence) Launch Interactive Notebook via Streamlit: Analytical solution for 1D unconfined flow with two defined head boundaries </a> (Useful for drawing focus to theory without distraction. No run controls required.)
+<a href="https://gwf-1d-unconf-analytic.streamlit.app/" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence xx) Launch Interactive Notebook via Streamlit: Analytical solution for 1D unconfined flow with two defined head boundaries </a> (Useful for drawing focus to theory without distraction. No run controls required.)
 
 
 ***Core Area 1c Case ii: SYMPLE and INUX Europe: Leading Collaborative EdTech Deployment***
 
-As a curriculum developer and trainer for <a href="https://hydrosymple.com/en/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">the School of Hydrogeological Modeling & Project-Related Strategies (SYMPLE)</a>, I collaborate with colleagues from industry,TU Dresden and Sapienza University of Rome to produce applied hydrogeology material for environmental and water resource professionals.  Typically, learners have foundational theory in place but wish to extend their numerical modleing and uncertainty estimation abilities. They are glolbablly diverse, with majority representaiton from the global south and under-resourced regions (<a href="https://hydrosymple.com/en/trainers/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">Evidence</a>).
+As a curriculum developer and trainer for <a href="https://hydrosymple.com/en/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">the School of Hydrogeological Modeling & Project-Related Strategies (SYMPLE)</a>, I collaborate with colleagues from industry,TU Dresden and Sapienza University of Rome to produce applied hydrogeology material for environmental and water resource professionals.  Typically, learners have foundational theory in place but wish to extend their numerical modleing and uncertainty estimation abilities. They are glolbablly diverse, with majority representaiton from the global south and under-resourced regions (<a href="https://hydrosymple.com/en/trainers/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">(Evidence xx)</a>).
 
 This work foregrounds scalable, decision-focused education in groundwater systems and expands my own practice in adapting teaching to diverse technical and environmental settings. Part of my work with SYMPLE included the development of an online learning platform, the <a href="https://tu-dresden.de/bu/umwelt/hydro/inux/projekt/ueberblick?set_language=en" target="_blank" style="text-decoration: underline; color: #004080;">iNUX project (Interactive understanding of groundwater hydrogeology and groundwater management)</a>, which is an <a href="https://erasmus-plus.ec.europa.eu/" target="_blank" style="text-decoration: underline; color: #004080;">Erasmus+ </a> funded initiative (2022–2025), that supports open-source, interactive education in groundwater science. Led by TU Dresden, Gothenburg, and Universidad Politécnica de Cataluña, the same project that developed the Jupyter-based tutorials mentioned in Case i, as well as <a href="https://jupyter.org/" target="_blank" style="text-decoration: underline; color: #004080;">, and assessment banks designed for international adaptation.
 
@@ -177,13 +179,12 @@ My contribution focused on the development of a hydrogeological question bank: c
 
 ***Core Area 1c Case ii Evidence***
 
-<a href="https://hydrosymple.com/en/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">– School of Hydrogeological Modeling & Project-Related Strategies (SYMPLE)</a>
+<a href="https://hydrosymple.com/en/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">(Evidence xx) School of Hydrogeological Modeling & Project-Related Strategies (SYMPLE)</a>
 
-<a href="https://hydrosymple.com/en/about-us/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;"> – Scientific Committee (Symple)</a>
+<a href="https://hydrosymple.com/en/about-us/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">(Evidence xx) Scientific Committee (Symple)</a>
 
-<a href="https://hydrosymple.com/en/trainers/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">– Instructor (Symple)</a>
+<a href="https://hydrosymple.com/en/trainers/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">(Evidencee xx) Instructor (Symple)</a>
 
--ADD FRANCESCA EMAIL DEMONSTRATING COLLABORATION
 
 ***Core Area 1c Reflections***
 
@@ -199,14 +200,14 @@ More than anything, these projects I've been fortunate enought to have been invo
 
 ***Core Area 1c References***
 
-* Beetham, H., Falconer, I., McGill, L. and Littlejohn, A., 2012. Open practices: Briefing paper.
+* Beetham, H., Falconer, I., McGill, L. and Littlejohn, A., 2012. Open practices: Briefing paper. Available at: https://eprints.gla.ac.uk/186419/
  
-* Bloom, B., 1956. A taxonomy of cognitive objectives. New York: McKay.
+* Bloom, B., 1956. A taxonomy of cognitive objectives. New York: McKay. Available at: https://www.scirp.org/reference/referencespapers?referenceid=1717253
   
-* Bruner, J.S., 1960. The Process of Education, Harvard, Univ. Press, Cambridge, Mass.
+* Bruner, J.S., 1960. The Process of Education, Harvard, Univ. Press, Cambridge, Mass. Available at: http://edci770.pbworks.com/w/file/fetch/45494576/Bruner_Processes_of_Education.pdf
 
-* Conole, G., 2012. Designing for learning in an open world (Vol. 4). Springer Science & Business Media.
+* Conole, G., 2012. Designing for learning in an open world (Vol. 4). Springer Science & Business Media. Available at: https://link.springer.com/book/10.1007/978-1-4419-8517-0
 
-* Hilton III, J., 2016. Open educational resources and college textbook choices: A review of research on efficacy and perceptions. Educational technology research and development, 64(4), pp.573-590.
+* Hilton III, J., 2016. Open educational resources and college textbook choices: A review of research on efficacy and perceptions. Educational technology research and development, 64(4), pp.573-590. Available at: https://link.springer.com/article/10.1007/s11423-016-9434-9
 
-* Sweller, J., Ayres, P. and Kalyuga, S., 2011. Emerging themes in cognitive load theory: the transient information and the collective working memory effects. In Cognitive load theory (pp. 219-233). New York, NY: Springer New York.
+* Sweller, J., Ayres, P. and Kalyuga, S., 2011. Emerging themes in cognitive load theory: the transient information and the collective working memory effects. In Cognitive load theory (pp. 219-233). New York, NY: Springer New York. Available at: https://www.researchgate.net/publication/251118905_Emerging_Themes_in_Cognitive_Load_Theory_The_Transient_Information_and_the_Collective_Working_Memory_Effects
