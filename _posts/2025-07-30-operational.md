@@ -33,11 +33,11 @@ The field of engineering requires adaptablity and rapid uptake of new tools and 
 
 <h2 id="Core_Area_1a"></h2>
 
-## Core Area 1a Preface 
+## Preface 
+
+This section outlines my experience working with learning technologies in engineering education, including tool selection, technical implementation, and deployment in teaching environments. My use of educational technology is grounded in discipline-specific needs and developed across institutions in Canada and the UK. I focus on tools that support structured reasoning, model-based problem solving, and transferable skill development. The examples below reflect three dimensions of this work: understanding constraints and benefits (1a), applying tools directly in teaching and supervision (1b), and supporting their deployment for student and staff use (1c).
 
 ## Core Area 1a: Understanding Constraints and Benefits of different technologies
-
-Engineering education is built on problem-solving, and effective tool use is part of that discipline. The technologies I use, whether for delivery, interaction, or modelling, are selected based on what they enable my students to do, not how they appear in a catalogue. I have taught across analogue and digital settings: in classrooms with chalkboards and acetates, and in institutions adopting successive generations of VLEs and software. Each tool brings trade-offs. Some offer accessibility but little depth; others enable rigour but demand steep onboarding. Across lecture platforms, learning environments, and analytical systems, my approach has remained consistent. I choose technologies that extend students’ capacity to engage with structure, test logic, and explore models they could not build by hand. The cases below illustrate how I have applied that principle in practice.
 
 ***Core Area 1a - Case i: PowerPoint vs. Mentimeter***
 
