@@ -160,18 +160,17 @@ This deployment forms part of a broader push within my teaching to support open-
    target="_blank" 
    rel="noopener" 
    style="text-decoration: underline; color: #004080;">
-(Evidence 3) Launch Interactive Notebook via Binder: Analytical solution for 1D unconfined flow with two defined head boundaries
-</a> (Useful for demonstrating or modifying coded solutions to presented theory, but code must be run by 'view'->'collapse all cells' then 'run'->'run all cells')
+(Evidence 3) Launches an Interactive Notebook via Binder: Analytical solution for 1D unconfined flow with two defined head boundaries. Binder executes Jupyter script directly from my GitHub repository within a browser window and is Useful for demonstrating or modifying coded solutions to presented theory, but code must be run by 'view'->'collapse all cells' then 'run'->'run all cells' </a>
 
 
-<a href="https://gwf-1d-unconf-analytic.streamlit.app/" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence 4) Launch Interactive Notebook via Streamlit: Analytical solution for 1D unconfined flow with two defined head boundaries </a> (Useful for drawing focus to theory without distraction. No run controls required.)
+<a href="https://gwf-1d-unconf-analytic.streamlit.app/" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence 4) Launches Interactive Notebook via Streamlit: Analytical solution for 1D unconfined flow with two defined head boundaries, which isuseful for drawing focus to theory without the distraction of code. Students can work with the theory content directly with no run controls required.</a>
 
 
 ***Core Area 1c Case ii: SYMPLE and INUX Europe: Leading Collaborative EdTech Deployment***
 
 As a curriculum developer and trainer for <a href="https://hydrosymple.com/en/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">the School of Hydrogeological Modeling & Project-Related Strategies (SYMPLE)</a>, I collaborate with colleagues from industry,TU Dresden and Sapienza University of Rome to produce applied hydrogeology material for environmental and water resource professionals.  Typically, learners have foundational theory in place but wish to extend their numerical modleing and uncertainty estimation abilities. They are glolbablly diverse, with majority representaiton from the global south and under-resourced regions (<a href="https://hydrosymple.com/en/trainers/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">(Evidence 1)</a>).
 
-This work foregrounds scalable, decision-focused education in groundwater systems and expands my own practice in adapting teaching to diverse technical and environmental settings. Part of my work with SYMPLE included the development of an online learning platform, the <a href="https://tu-dresden.de/bu/umwelt/hydro/inux/projekt/ueberblick?set_language=en" target="_blank" style="text-decoration: underline; color: #004080;">iNUX project (Interactive understanding of groundwater hydrogeology and groundwater management)</a>, which is an <a href="https://erasmus-plus.ec.europa.eu/" target="_blank" style="text-decoration: underline; color: #004080;">Erasmus+ </a> funded initiative (2022–2025), that supports open-source, interactive education in groundwater science. Led by TU Dresden, Gothenburg, and Universidad Politécnica de Cataluña, the same project that developed the Jupyter-based tutorials mentioned in Case i, as well as <a href="https://jupyter.org/" target="_blank" style="text-decoration: underline; color: #004080;">, and assessment banks designed for international adaptation.
+This work foregrounds scalable, decision-focused education in groundwater systems and expands my own practice in adapting teaching to diverse technical and environmental settings. Part of my work with SYMPLE included the development of an online learning platform, the <a href="https://tu-dresden.de/bu/umwelt/hydro/inux/projekt/ueberblick?set_language=en" target="_blank" style="text-decoration: underline; color: #004080;">iNUX project (Interactive understanding of groundwater hydrogeology and groundwater management)</a>, which is an <a href="https://erasmus-plus.ec.europa.eu/" target="_blank" style="text-decoration: underline; color: #004080;">Erasmus+ </a> funded initiative (2022–2025), that supports open-source, interactive education in groundwater science. Led by TU Dresden, Gothenburg, and Universidad Politécnica de Cataluña, the same project that developed the Jupyter-based tutorials mentioned in Case i, as well as <a href="https://github.com/gw-inux/iNUX-Question-Pools" target="_blank" style="text-decoration: underline; color: #004080;">, and assessment banks designed for international adaptation.
 
 My contribution focused on the development of a hydrogeological question bank: curating and classifying problems by Bloom’s Taxonomy of Cognitive Objectives (1956), technical domain, and difficulty level. This involved both data-wrangling and subject-specific content development. I also supported testing and early deployment of the materials, which are now <a href="https://github.com/gw-inux" target="_blank" style="text-decoration: underline; color: #004080;"> freely available via GitHub</a> and licensed for reuse by educators globally.
 
@@ -179,9 +178,9 @@ My contribution focused on the development of a hydrogeological question bank: c
 
 <a href="https://hydrosymple.com/en/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">(Evidence 2) School of Hydrogeological Modeling & Project-Related Strategies (SYMPLE)</a>
 
-<a href="https://hydrosymple.com/en/about-us/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">(Evidence 3) Scientific Committee (Symple)</a>
+<a href="https://hydrosymple.com/en/about-us/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">(Evidence 3) Scientific Committee credit page for Symple (Symple)</a>
 
-<a href="https://hydrosymple.com/en/trainers/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">(Evidencee 4 Instructor (Symple)</a>
+<a href="https://hydrosymple.com/en/trainers/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">(Evidencee 4) Instructor credit page for Symple</a>
 
 
 ***Core Area 1c Reflections***
