@@ -24,9 +24,9 @@ The field of engineering requires adaptablity and rapid uptake of new tools and 
 
 **Guide**
 
-* <a href="#Core_Area_1a">Jump to Core Area 1a: Understanding the Constraints and Benefits of Different technologies</a>
-* <a href="#Core_Area_1b">Jump to Core Area 1b: Technical Knowledge and Ability in the use of Learning Technology</a>
-* <a href="#Core_Area_1c">Jump to Core Area 1c Supporting the Deployment of Learning Technologies</a>
+* <a href="#Core_Area_1a" style="text-decoration: underline; color: #004080;">Jump to Core Area 1a: Understanding the Constraints and Benefits of Different technologies</a>
+* <a href="#Core_Area_1b" style="text-decoration: underline; color: #004080;">Jump to Core Area 1b: Technical Knowledge and Ability in the use of Learning Technology</a>
+* <a href="#Core_Area_1c" style="text-decoration: underline; color: #004080;">Jump to Core Area 1c Supporting the Deployment of Learning Technologies</a>
 
 
 
@@ -49,7 +49,7 @@ Through institutions I have taught at, I've use Moodle, D2L (Desire2Learn), and 
 
 ***Core Area 1a - Case iii: Analytical and Numerical Tools***
 
-Engineering sits at the intersection of science and technology and is inherently dependent on data-driven modelling. To support students in applying numerical and analytical theory, I use a sequence of platforms tailored to their technical background and the complexity of the task. Excel provides an accessible entry point <a href="/assets/img/ENVI1195CMALTPOST.pdf" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence XX)</a> for students to build finite difference models, run parameter-driven simulations, and explore system sensitivity using cell-based logic. It is ideal for conceptual grounding, though limited in handling high-dimensional or computationally intensive tasks. For MSc students less familiar with coding, I use Orange, AutoML or XLMiner, GUI-based machine learning environments that enables pipeline construction and parameter adjustment through visual interfaces <a href="/assets/img/msc_gui_examples.png" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence XX)</a>. They offer a low barrier to entry but lack the flexibility needed for research-level work. For advanced students, I use Python with scaffolded notebooks and real datasets to build simulations and machine learning pipelines <a href="/assets/img/msc_ai_slices.png" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence XX)</a>. These tools are powerful and adaptable, but carry a steeper learning curve and demand more prerequisite knowledge. Each platform brings trade-offs in control, accessibility, and scalability. I select and sequence them deliberately to match student readiness and learning goals.
+Engineering sits at the intersection of science and technology and is inherently dependent on data-driven modelling. To support students in applying numerical and analytical theory, I use a sequence of platforms tailored to their technical background and the complexity of the task. Excel provides an accessible entry point <a href="/assets/img/ENVI1195CMALTPOST.pdf" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence 1)</a> for students to build finite difference models, run parameter-driven simulations, and explore system sensitivity using cell-based logic. It is ideal for conceptual grounding, though limited in handling high-dimensional or computationally intensive tasks. For MSc students less familiar with coding, I use Orange, AutoML or XLMiner, GUI-based machine learning environments that enables pipeline construction and parameter adjustment through visual interfaces <a href="/assets/img/msc_gui_examples.png" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence 2)</a>. They offer a low barrier to entry but lack the flexibility needed for research-level work. For advanced students, I use Python with scaffolded notebooks and real datasets to build simulations and machine learning pipelines <a href="/assets/img/msc_ai_slices.png" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence 3)</a>. These tools are powerful and adaptable, but carry a steeper learning curve and demand more prerequisite knowledge. Each platform brings trade-offs in control, accessibility, and scalability. I select and sequence them deliberately to match student readiness and learning goals.
 
 ***Evidence***
 -Is more needed?
@@ -94,7 +94,7 @@ My technical proficiency has developed over more than two decades of applied wor
 
 My MSc project tools include Python, Julia, MATLAB, Maple, Visual Basic, FORTRAN, C++, SQL, HTML, and other environments, deployed across both Windows and Linux systems. Engineering students are required to adapt to problem solving using these tools as applied to domain-specific problems, mirroring what would be expected of them in industry. I use GitHub for version control, Jupyter for interactive teaching and research, and tools such as TauFactor, PoreSpy, and Palabos for pore-network and flow modelling. 
 
-In undergraduate teaching, I design scaffolded Python and Excel environments that let students explore real datasets and environmental models. These include pre-built prebuilt scripts for Mann–Kendall and other modes trend detection, time-series exploration, and finite difference simulations, where students can alter input filenames, process the data and proceed to trend analysis with real data <a href="/assets/img/seasonal_var_code.pdf" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence xx)</a> that is far more educationally immersive than pre-cooked sample data <a href="/assets/img/gw_Storage_Huntingdon.png" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence xx)</a>.
+In undergraduate teaching, I design scaffolded Python and Excel environments that let students explore real datasets and environmental models. These include pre-built prebuilt scripts for Mann–Kendall and other modes trend detection, time-series exploration, and finite difference simulations, where students can alter input filenames, process the data and proceed to trend analysis with real data <a href="/assets/img/seasonal_var_code.pdf" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence 1)</a> that is far more educationally immersive than pre-cooked sample data <a href="/assets/img/gw_Storage_Huntingdon.png" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence 2)</a>.
 
 At MSc level, I support more complex work. One recent project involved permeability estimation from µCT image data using random forests, supported through shared GitHub repositories and Python-based workflows. I have also supervised MSc projects on environmental classifiers and advised students adapting code for industry.
 
@@ -104,9 +104,9 @@ Alongside this technical experience, I bring a background in design and editoria
 
 ***Core Area 1b Evidence***
 
-<a href="/assets/img/DSG_PI_Criteria.pdf" target="_blank" style="text-decoration: underline; color: #004080;"> (Evidence xx) Acceptnace Requirements (including techonogical ability) for Primary Investigator Position at The Alan Turing Institute as Affirmation of Skillset</a>
+<a href="/assets/img/DSG_PI_Criteria.pdf" target="_blank" style="text-decoration: underline; color: #004080;"> (Evidence 3 Acceptnace Requirements (including techonogical ability) for Primary Investigator Position at The Alan Turing Institute as Affirmation of Skillset</a>
 
-<a href="/assets/img/representativecode.jpg" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence xx) Representative Code Snippet for Rock Flow Properties Analysis (MSc mentorship project)</a>
+<a href="/assets/img/representativecode.jpg" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence 4) Representative Code Snippet for Rock Flow Properties Analysis (MSc mentorship project)</a>
 
 -Should more evidence be supplied?
 
@@ -142,7 +142,7 @@ Structure matters. Kirschner, Sweller, and Clark (2006) show that students benef
 
 ***Core Area 1c Case i: Jupyter Notebooks for Engineering Education: Supporting Conceptual Mastery***
 
-As part of my module redevelopment for MSc-level Contaminant Hydrogeology and Groundwater Remediation and Hydrosystems Engineering and Management, I have integrated interactive <a href="https://docs.jupyter.org/en/latest/" target="_blank" style="text-decoration: underline; color: #004080;">Jupyter notebooks</a>. These are browser-based environments that combine code, equations, and visual outputs in a single, dynamic document, allowing students to explore models directly, adjust parameters, and visualise responses in real time.  The students, then after learning theroy used the notebooks to analyse engineering cases numerically. The specific notebooks I deployed were produced by TU Dresden through the iNUX Europe initiative and <a href="https://gw-project.org/interactive-education/" target="_blank" style="text-decoration: underline; color: #004080;">The Groundwater Project – Interactive Education</a>. These resources are open-access, modifiable, and forkable from their GitHub repository <a href="/assets/img/Binder_Github_Source.jpg" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence xx)</a>, making them adaptable to specific teaching goals and responsive to student needs.
+As part of my module redevelopment for MSc-level Contaminant Hydrogeology and Groundwater Remediation and Hydrosystems Engineering and Management, I have integrated interactive <a href="https://docs.jupyter.org/en/latest/" target="_blank" style="text-decoration: underline; color: #004080;">Jupyter notebooks</a>. These are browser-based environments that combine code, equations, and visual outputs in a single, dynamic document, allowing students to explore models directly, adjust parameters, and visualise responses in real time.  The students, then after learning theroy used the notebooks to analyse engineering cases numerically. The specific notebooks I deployed were produced by TU Dresden through the iNUX Europe initiative and <a href="https://gw-project.org/interactive-education/" target="_blank" style="text-decoration: underline; color: #004080;">The Groundwater Project – Interactive Education</a>. These resources are open-access, modifiable, and forkable from their GitHub repository <a href="/assets/img/Binder_Github_Source.jpg" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence 1)</a>, making them adaptable to specific teaching goals and responsive to student needs.
 
 To ensure broad accessibility, I initially deployed the notebooks using  <a href="https://mybinder.org/" target="_blank" style="text-decoration: underline; color: #004080;">Binder</a> and JupyterHub pipelines, linked through our Moodle shell. This avoided the need for students to perform local installation of the tools, supporting digital equity across student devices and skill levels. However, Binder introduces delays and usability issues: long launch times, exposed code blocks, and unfamiliar controls create friction for students new to programming. While transparency can benefit advanced users, for many students, these extra steps distract from the conceptual focus. Accessing menus, collapsing code cells, and running entire scripts became an obstacle to my teaching goal: to clarify the science, not foreground the tool.
 
@@ -154,22 +154,22 @@ This deployment forms part of a broader push within my teaching to support open-
 
 ***Core Area 1c Case i Evidence***
 
-<a href="/assets/img/MoodleJupyterIntegration.png" target="_blank" style="text-decoration: underline; color: #004080;">-(Evidence xx) Screenshot: Moodle-Integrated Jupyter Worksheet Links as Deployed </a>
+<a href="/assets/img/MoodleJupyterIntegration.png" target="_blank" style="text-decoration: underline; color: #004080;">-(Evidence 2) Screenshot: Moodle-Integrated Jupyter Worksheet Links as Deployed </a>
 
 <a href="https://mybinder.org/v2/gh/EMar1066/HydroG-Jupyter-Notebooks/HEAD?filepath=04_Basic_hydrogeology/GWF_1D_unconf_analytic_BC3.ipynb"
    target="_blank" 
    rel="noopener" 
    style="text-decoration: underline; color: #004080;">
-(Evidence xx) Launch Interactive Notebook via Binder: Analytical solution for 1D unconfined flow with two defined head boundaries
+(Evidence 3) Launch Interactive Notebook via Binder: Analytical solution for 1D unconfined flow with two defined head boundaries
 </a> (Useful for demonstrating or modifying coded solutions to presented theory, but code must be run by 'view'->'collapse all cells' then 'run'->'run all cells')
 
 
-<a href="https://gwf-1d-unconf-analytic.streamlit.app/" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence xx) Launch Interactive Notebook via Streamlit: Analytical solution for 1D unconfined flow with two defined head boundaries </a> (Useful for drawing focus to theory without distraction. No run controls required.)
+<a href="https://gwf-1d-unconf-analytic.streamlit.app/" target="_blank" style="text-decoration: underline; color: #004080;">(Evidence 4) Launch Interactive Notebook via Streamlit: Analytical solution for 1D unconfined flow with two defined head boundaries </a> (Useful for drawing focus to theory without distraction. No run controls required.)
 
 
 ***Core Area 1c Case ii: SYMPLE and INUX Europe: Leading Collaborative EdTech Deployment***
 
-As a curriculum developer and trainer for <a href="https://hydrosymple.com/en/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">the School of Hydrogeological Modeling & Project-Related Strategies (SYMPLE)</a>, I collaborate with colleagues from industry,TU Dresden and Sapienza University of Rome to produce applied hydrogeology material for environmental and water resource professionals.  Typically, learners have foundational theory in place but wish to extend their numerical modleing and uncertainty estimation abilities. They are glolbablly diverse, with majority representaiton from the global south and under-resourced regions (<a href="https://hydrosymple.com/en/trainers/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">(Evidence xx)</a>).
+As a curriculum developer and trainer for <a href="https://hydrosymple.com/en/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">the School of Hydrogeological Modeling & Project-Related Strategies (SYMPLE)</a>, I collaborate with colleagues from industry,TU Dresden and Sapienza University of Rome to produce applied hydrogeology material for environmental and water resource professionals.  Typically, learners have foundational theory in place but wish to extend their numerical modleing and uncertainty estimation abilities. They are glolbablly diverse, with majority representaiton from the global south and under-resourced regions (<a href="https://hydrosymple.com/en/trainers/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">(Evidence 1)</a>).
 
 This work foregrounds scalable, decision-focused education in groundwater systems and expands my own practice in adapting teaching to diverse technical and environmental settings. Part of my work with SYMPLE included the development of an online learning platform, the <a href="https://tu-dresden.de/bu/umwelt/hydro/inux/projekt/ueberblick?set_language=en" target="_blank" style="text-decoration: underline; color: #004080;">iNUX project (Interactive understanding of groundwater hydrogeology and groundwater management)</a>, which is an <a href="https://erasmus-plus.ec.europa.eu/" target="_blank" style="text-decoration: underline; color: #004080;">Erasmus+ </a> funded initiative (2022–2025), that supports open-source, interactive education in groundwater science. Led by TU Dresden, Gothenburg, and Universidad Politécnica de Cataluña, the same project that developed the Jupyter-based tutorials mentioned in Case i, as well as <a href="https://jupyter.org/" target="_blank" style="text-decoration: underline; color: #004080;">, and assessment banks designed for international adaptation.
 
@@ -177,11 +177,11 @@ My contribution focused on the development of a hydrogeological question bank: c
 
 ***Core Area 1c Case ii Evidence***
 
-<a href="https://hydrosymple.com/en/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">(Evidence xx) School of Hydrogeological Modeling & Project-Related Strategies (SYMPLE)</a>
+<a href="https://hydrosymple.com/en/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">(Evidence 2) School of Hydrogeological Modeling & Project-Related Strategies (SYMPLE)</a>
 
-<a href="https://hydrosymple.com/en/about-us/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">(Evidence xx) Scientific Committee (Symple)</a>
+<a href="https://hydrosymple.com/en/about-us/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">(Evidence 3) Scientific Committee (Symple)</a>
 
-<a href="https://hydrosymple.com/en/trainers/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">(Evidencee xx) Instructor (Symple)</a>
+<a href="https://hydrosymple.com/en/trainers/" target="_blank" rel="noopener" style="text-decoration: underline; color: #004080;">(Evidencee 4 Instructor (Symple)</a>
 
 
 ***Core Area 1c Reflections***
