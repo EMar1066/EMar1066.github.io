@@ -18,14 +18,14 @@ image: Pythonbw.png
 
 This section outlines my role as facilitator and Principal Investigator across three Data Study Groups (DSGs) run by The Alan Turing Institute. These events bring researchers and practitioners together around live technical challenges posed by partner organisations. My responsibilities include early-stage design, technical framing, and leadership during the sprint itself.
 
-The work is interdisciplinary and applied. Each challenge must be scoped to ensure methodological relevance, tractable research directions, and space for meaningful contribution. Partner organisations must gain insight. Participants must be able to engage, regardless of background. This requires careful planning, critical review of the field, and the construction of a collaborative environment that rewards clarity, reasoning, and intellectual risk.
+The work is interdisciplinary and applied. Each challenge must be scoped to ensure methodological relevance, tractable research directions, and space for meaningful contribution. Partner organisations must gain insight. Participants must be able to engage, regardless of background. This requires careful planning, critical review of the field, and the construction of a collaborative environment that rewards clarity, reasoning, and intellectual risk (Core Value 3).
 
 This work is both technical and pedagogical. DSGs are designed to produce applied research outputs, but they also function as learning environments. They support skill development, shared vocabulary, and confidence across levels of experience. The following section reflects on this work, and its relationship to my wider teaching and research practice.
 
 
 ## Specialist Option: Building Technologically-Driven Learning Environments: From Tools to Leadership
 
-As facilitator and now Principal Investigator across three Alan Turing Institute Data Study Groups (DSGs), my role has been to design and lead collaborative technical challenges that balance research credibility, educational value, and strategic delivery. These events are not merely hackathons or proof-of-concept sprints; they are structured environments for interdisciplinary learning, problem solving, and real-world application.
+As facilitator and now Principal Investigator across three Alan Turing Institute Data Study Groups (DSGs), my role has been to design and lead collaborative technical challenges that balance research credibility, educational value, and strategic delivery. These events are not merely hackathons or proof-of-concept sprints; they are structured environments for interdisciplinary learning, problem solving, and real-world application (Core Value 1).
 
 In the September 2024 DSG with the British Geological Survey (BGS), I facilitated a team working on carbonate reservoir screening for carbon capture and storage. The dataset consisted of petrographic thin-sections, and I helped shape the project scope, advised on suitable deep learning architectures (e.g. U-Net for segmentation), and ensured the team’s approach remained relevant to national storage needs. I also helped steer group dynamics, encouraged equitable task division, and provided technical mentoring across coding, mineralogical interpretation, and feature engineering. The Turing insitute DSG organisational staff said:
 
@@ -48,7 +48,7 @@ For the upcoming September 2025 DSG with Cefas, I am leading as Principal Invest
 
 > (Evidence 6) I admired your work ethic and how you approached the challenge. The whole DSG was a learning experience in which you contributed a lot. Thank you, hope our paths cross again as well. Best of luck in the new academic year!
 
-At each stage, I provide design leadership: building challenge frameworks that are technically open, yet pedagogically scaffolded; curating interdisciplinary cohesion; and ensuring each DSG serves the research partner, the Institute, and the participants equally.
+At each stage, I provide design leadership: building challenge frameworks that are technically open, yet pedagogically scaffolded; curating interdisciplinary cohesion; and ensuring each DSG serves the research partner, the Institute, and the participants equally (Core Value 4).
 
 **Specialist Option Evidence**
 
@@ -63,7 +63,7 @@ At each stage, I provide design leadership: building challenge frameworks that a
 
 Leadership in this context is architectural as well as instructional. My influence primarily lies in curating the environment where outcomes become possible. Each DSG requires anticipatory thinking: What dead ends are likely? What skills will participants bring? What will they need on Day 2 when early ideas collapse? The design must account for exploration, missteps, and re-orientation.
 
-I’ve learned that good challenge design thrives on pluralism: Providing multiple valid paths rather than one intended solution. Framing must be deliberate but flexible. Participants need just enough structure to proceed confidently, but enough freedom to surprise us. When this balance is struck, something powerful happens: people contribute beyond their discipline, they teach each other, and they produce both solutions and academic insight.
+I’ve learned that good challenge design thrives on pluralism: Providing multiple valid paths rather than one intended solution. Framing must be deliberate but flexible. Participants need just enough structure to proceed confidently, but enough freedom to surprise us. When this balance is struck, something powerful happens: people contribute beyond their discipline, they teach each other, and they produce both solutions and academic insight (Core Value 2).
 
 What sets DSGs apart, and what aligns them with my wider educational philosophy, is the combination of urgency and learning. Participants live the project. They struggle, argue, resolve, and build. They leave not with a mark or grade, but with a new capacity for cross-disciplinary work. My leadership makes that possible not through authority, but through design.
 
