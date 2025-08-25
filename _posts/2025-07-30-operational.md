@@ -63,17 +63,17 @@ This challenge becomes clearest in technical teaching. This line of thought beca
 
 ***Core Area 1a References***
 
-* Castañeda, L. and Selwyn, N., 2018. More than tools? Making sense of the ongoing digitizations of higher education. International Journal of Educational Technology in Higher Education, 15(1), p.22. https://doi.org/10.1186/s41239-018-0109-y
+* Castañeda, L. and Selwyn, N., 2018. More than tools? Making sense of the ongoing digitizations of higher education. International Journal of Educational Technology in Higher Education, 15(1), p.22. 
 
-* Cutri, R.M. and Mikkonen, J., 2021. Student perceptions of using Mentimeter as a student response system in higher education. Education and Information Technologies, 26, pp.6557–6573. https://doi.org/10.1007/s10639-021-10589-5
+* Cutri, R.M. and Mikkonen, J., 2021. Student perceptions of using Mentimeter as a student response system in higher education. Education and Information Technologies, 26, pp.6557–6573. 
 
-* Dervan, P., 2014. Increasing in-class student engagement using Mentimeter, an interactive presentation software. AISHE-J: The All Ireland Journal of Teaching and Learning in Higher Education, 6(3), pp.1801–1815. https://doi.org/10.62707/aishej.v6i3.180 
+* Dervan, P., 2014. Increasing in-class student engagement using Mentimeter, an interactive presentation software. AISHE-J: The All Ireland Journal of Teaching and Learning in Higher Education, 6(3), pp.1801–1815. 
 
-* Kirkwood, A. & Price, L. (2014). Technology-enhanced learning and teaching in higher education: what is ‘enhanced’ and how do we know? A critical literature review. Learning, Media and Technology, 39(1), 6–36.  https://doi.org/10.1080/17439884.2013.770404
+* Kirkwood, A. & Price, L. (2014). Technology-enhanced learning and teaching in higher education: what is ‘enhanced’ and how do we know? A critical literature review. Learning, Media and Technology, 39(1), 6–36.  
 
 * Laurillard, D., 2013. Teaching as a Design Science: Building Pedagogical Patterns for Learning and Technology. New York: Routledge.
 
-* Lu, J., Schmidt, M., Lee, M. and Huang, R., 2022. Usability research in educational technology: A state-of-the-art systematic review. Educational Technology Research and Development, 70(6), pp.1951–1992. https://doi.org/10.1007/s11423-022-10152-6
+* Lu, J., Schmidt, M., Lee, M. and Huang, R., 2022. Usability research in educational technology: A state-of-the-art systematic review. Educational Technology Research and Development, 70(6), pp.1951–1992. 
 
 * Selwyn, N., 2016. Is Technology Good for Education? Cambridge: Polity Press.
 
@@ -117,7 +117,7 @@ Structure matters. Kirschner, Sweller, and Clark (2006) show that students benef
 
 * Biggs, J., Tang, C. and Kennedy, G., 2022. Teaching for quality learning at university. 5th ed. Maidenhead: McGraw-Hill Education (UK).
 
-* Kirschner, P.A., Sweller, J. and Clark, R.E., 2006. Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. Educational Psychologist, 41(2), pp.75–86. https://doi.org/10.1207/s15326985ep4102_1
+* Kirschner, P.A., Sweller, J. and Clark, R.E., 2006. Why minimal guidance during instruction does not work: An analysis of the failure of constructivist, discovery, problem-based, experiential, and inquiry-based teaching. Educational Psychologist, 41(2), pp.75–86. 
 
 * Laurillard, D., 2013. Teaching as a design science: Building pedagogical patterns for learning and technology. Abingdon: Routledge.
 
@@ -183,14 +183,14 @@ More than anything, these projects I've been fortunate enought to have been invo
 
 ***Core Area 1c References***
 
-* Beetham, H., Falconer, I., McGill, L. and Littlejohn, A., 2012. Open practices: Briefing paper. Available at: https://eprints.gla.ac.uk/186419/
+* Beetham, H., Falconer, I., McGill, L. and Littlejohn, A., 2012. Open practices: Briefing paper. 
  
-* Bloom, B., 1956. A taxonomy of cognitive objectives. New York: McKay. Available at: https://www.scirp.org/reference/referencespapers?referenceid=1717253
+* Bloom, B., 1956. A taxonomy of cognitive objectives. New York: McKay.
   
-* Bruner, J.S., 1960. The Process of Education, Harvard, Univ. Press, Cambridge, Mass. Available at: http://edci770.pbworks.com/w/file/fetch/45494576/Bruner_Processes_of_Education.pdf
+* Bruner, J.S., 1960. The Process of Education, Harvard, Univ. Press, Cambridge, Mass.
+  
+* Conole, G., 2012. Designing for learning in an open world (Vol. 4). Springer Science & Business Media.
+  
+* Hilton III, J., 2016. Open educational resources and college textbook choices: A review of research on efficacy and perceptions. Educational technology research and development, 64(4), pp.573-590. 
 
-* Conole, G., 2012. Designing for learning in an open world (Vol. 4). Springer Science & Business Media. Available at: https://link.springer.com/book/10.1007/978-1-4419-8517-0
-
-* Hilton III, J., 2016. Open educational resources and college textbook choices: A review of research on efficacy and perceptions. Educational technology research and development, 64(4), pp.573-590. Available at: https://link.springer.com/article/10.1007/s11423-016-9434-9
-
-* Sweller, J., Ayres, P. and Kalyuga, S., 2011. Emerging themes in cognitive load theory: the transient information and the collective working memory effects. In Cognitive load theory (pp. 219-233). New York, NY: Springer New York. Available at: https://www.researchgate.net/publication/251118905_Emerging_Themes_in_Cognitive_Load_Theory_The_Transient_Information_and_the_Collective_Working_Memory_Effects
+* Sweller, J., Ayres, P. and Kalyuga, S., 2011. Emerging themes in cognitive load theory: the transient information and the collective working memory effects. In Cognitive load theory (pp. 219-233). New York, NY: Springer New York. 
