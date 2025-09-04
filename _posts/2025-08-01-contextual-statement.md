@@ -35,3 +35,7 @@ CMALT accreditation offers a structured way to examine my teaching more systemat
 This portfolio, as it should be, is a work in progress. Some sections are linked to ongoing projects, and others will be added as future work develops. For me, CMALT is not a box to tick, but a framework for continued improvement. The ALT community reflects the direction I aim to grow as an educator and researcher working with technology, and I would value the opportunity to contribute to and learn from it.
 
 ⁂
+
+***Confirmation Statement and Declaration***
+
+I declare that, to the best of my knowledge, the statements and evidence included in this submission accurately describe my practice and are drawn from my own work, with the input and support of others duly and clearly recognised.
